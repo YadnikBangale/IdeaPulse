@@ -1,0 +1,301 @@
+id,title,description,domain
+1,Workout Form Analyzer 1,A machine learning system that analyzes user behavior and generates optimized plans.,environment
+2,Podcast Topic Recommender 2,A tool that processes sensor or user data to detect patterns and provide predictions.,transport
+3,Smart Waste Segregation 3,A prediction engine that forecasts outcomes using historical data.,healthcare
+4,Smart Waste Segregation 4,A recommendation system using embeddings and similarity search.,gaming
+5,Student Burnout Predictor 5,An AI platform that evaluates inputs and generates insights for better decision making.,social
+6,Carbon Footprint Tracker 6,A monitoring tool that detects anomalies and alerts users.,transport
+7,Local Event Recommendation Engine 7,A machine learning model that classifies patterns in real‑world data.,healthcare
+8,Workout Form Analyzer 8,A platform that visualizes complex patterns and trends through interactive dashboards.,productivity
+9,Mental Health Chat Companion 9,An AI platform that evaluates inputs and generates insights for better decision making.,social
+10,Smart Grocery Expiry Tracker 10,A tool that processes sensor or user data to detect patterns and provide predictions.,healthcare
+11,Workout Form Analyzer 11,A machine learning system that analyzes user behavior and generates optimized plans.,environment
+12,AI Study Planner 12,A tool that processes sensor or user data to detect patterns and provide predictions.,productivity
+13,Podcast Topic Recommender 13,An AI platform that evaluates inputs and generates insights for better decision making.,healthcare
+14,Music Mood Classifier 14,A monitoring tool that detects anomalies and alerts users.,education
+15,AI Study Planner 15,A recommendation system using embeddings and similarity search.,ai_tools
+16,Adaptive Learning Path Generator 16,A tool that processes sensor or user data to detect patterns and provide predictions.,productivity
+17,Student Burnout Predictor 17,A machine learning model that classifies patterns in real‑world data.,transport
+18,Sleep Quality Predictor 18,A system that analyzes large datasets to produce recommendations and risk scores.,productivity
+19,Music Mood Classifier 19,A recommendation system using embeddings and similarity search.,productivity
+20,Smart Grocery Expiry Tracker 20,A monitoring tool that detects anomalies and alerts users.,gaming
+21,Fake News Detector 21,A machine learning model that classifies patterns in real‑world data.,productivity
+22,Student Burnout Predictor 22,A prediction engine that forecasts outcomes using historical data.,transport
+23,Real‑time Bus Delay Predictor 23,An intelligent assistant that provides suggestions based on contextual signals.,social
+24,Song Popularity Predictor 24,A monitoring tool that detects anomalies and alerts users.,gaming
+25,Real‑time Bus Delay Predictor 25,A system that analyzes large datasets to produce recommendations and risk scores.,environment
+26,Personal Finance Risk Analyzer 26,A monitoring tool that detects anomalies and alerts users.,music
+27,Fake News Detector 27,An AI platform that evaluates inputs and generates insights for better decision making.,productivity
+28,Urban Noise Mapping Tool 28,A system that analyzes large datasets to produce recommendations and risk scores.,gaming
+29,Student Burnout Predictor 29,A machine learning model that classifies patterns in real‑world data.,gaming
+30,Song Popularity Predictor 30,A prediction engine that forecasts outcomes using historical data.,finance
+31,AI Study Planner 31,A platform that visualizes complex patterns and trends through interactive dashboards.,productivity
+32,Smart Grocery Expiry Tracker 32,An AI platform that evaluates inputs and generates insights for better decision making.,finance
+33,Adaptive Learning Path Generator 33,An intelligent assistant that provides suggestions based on contextual signals.,finance
+34,Carbon Footprint Tracker 34,A prediction engine that forecasts outcomes using historical data.,social
+35,AI Resume Feedback System 35,A monitoring tool that detects anomalies and alerts users.,music
+36,Real‑time Bus Delay Predictor 36,An intelligent assistant that provides suggestions based on contextual signals.,healthcare
+37,Personal Finance Risk Analyzer 37,A tool that processes sensor or user data to detect patterns and provide predictions.,social
+38,Mental Health Chat Companion 38,A monitoring tool that detects anomalies and alerts users.,music
+39,Student Burnout Predictor 39,A monitoring tool that detects anomalies and alerts users.,ai_tools
+40,Mental Health Chat Companion 40,A tool that processes sensor or user data to detect patterns and provide predictions.,social
+41,Mental Health Chat Companion 41,A machine learning model that classifies patterns in real‑world data.,music
+42,Podcast Topic Recommender 42,A system that analyzes large datasets to produce recommendations and risk scores.,healthcare
+43,Workout Form Analyzer 43,An AI platform that evaluates inputs and generates insights for better decision making.,productivity
+44,Real‑time Bus Delay Predictor 44,A prediction engine that forecasts outcomes using historical data.,transport
+45,Student Burnout Predictor 45,A machine learning model that classifies patterns in real‑world data.,ai_tools
+46,Carbon Footprint Tracker 46,A system that analyzes large datasets to produce recommendations and risk scores.,environment
+47,Real‑time Bus Delay Predictor 47,A machine learning system that analyzes user behavior and generates optimized plans.,finance
+48,Code Complexity Visualizer 48,An intelligent assistant that provides suggestions based on contextual signals.,healthcare
+49,Podcast Topic Recommender 49,A machine learning model that classifies patterns in real‑world data.,music
+50,AI Study Planner 50,A platform that visualizes complex patterns and trends through interactive dashboards.,environment
+51,Fake News Detector 51,A machine learning model that classifies patterns in real‑world data.,education
+52,Personal Finance Risk Analyzer 52,An AI platform that evaluates inputs and generates insights for better decision making.,finance
+53,Code Complexity Visualizer 53,A recommendation system using embeddings and similarity search.,transport
+54,Smart Grocery Expiry Tracker 54,An AI platform that evaluates inputs and generates insights for better decision making.,gaming
+55,Urban Noise Mapping Tool 55,A monitoring tool that detects anomalies and alerts users.,gaming
+56,Music Mood Classifier 56,A system that analyzes large datasets to produce recommendations and risk scores.,ai_tools
+57,Student Burnout Predictor 57,A platform that visualizes complex patterns and trends through interactive dashboards.,education
+58,Smart Waste Segregation 58,A monitoring tool that detects anomalies and alerts users.,ai_tools
+59,Urban Noise Mapping Tool 59,A platform that visualizes complex patterns and trends through interactive dashboards.,gaming
+60,Personal Finance Risk Analyzer 60,A monitoring tool that detects anomalies and alerts users.,finance
+61,Personal Finance Risk Analyzer 61,A system that analyzes large datasets to produce recommendations and risk scores.,social
+62,Personal Finance Risk Analyzer 62,An AI platform that evaluates inputs and generates insights for better decision making.,environment
+63,Smart Waste Segregation 63,A tool that processes sensor or user data to detect patterns and provide predictions.,healthcare
+64,Code Complexity Visualizer 64,A system that analyzes large datasets to produce recommendations and risk scores.,music
+65,AI Study Planner 65,An intelligent assistant that provides suggestions based on contextual signals.,transport
+66,Crowd Density Estimator 66,A tool that processes sensor or user data to detect patterns and provide predictions.,finance
+67,Personal Finance Risk Analyzer 67,A prediction engine that forecasts outcomes using historical data.,ai_tools
+68,Music Mood Classifier 68,An intelligent assistant that provides suggestions based on contextual signals.,education
+69,AI Resume Feedback System 69,A prediction engine that forecasts outcomes using historical data.,music
+70,Mental Health Chat Companion 70,A system that analyzes large datasets to produce recommendations and risk scores.,social
+71,Personal Finance Risk Analyzer 71,A tool that processes sensor or user data to detect patterns and provide predictions.,social
+72,Fake News Detector 72,A recommendation system using embeddings and similarity search.,education
+73,Sleep Quality Predictor 73,A platform that visualizes complex patterns and trends through interactive dashboards.,transport
+74,Sleep Quality Predictor 74,A system that analyzes large datasets to produce recommendations and risk scores.,environment
+75,Crowd Density Estimator 75,A prediction engine that forecasts outcomes using historical data.,healthcare
+76,Adaptive Learning Path Generator 76,A tool that processes sensor or user data to detect patterns and provide predictions.,healthcare
+77,Crowd Density Estimator 77,An AI platform that evaluates inputs and generates insights for better decision making.,social
+78,Real‑time Bus Delay Predictor 78,A platform that visualizes complex patterns and trends through interactive dashboards.,healthcare
+79,AI Resume Feedback System 79,An AI platform that evaluates inputs and generates insights for better decision making.,environment
+80,Urban Noise Mapping Tool 80,A machine learning model that classifies patterns in real‑world data.,environment
+81,Adaptive Learning Path Generator 81,A machine learning system that analyzes user behavior and generates optimized plans.,environment
+82,AI Study Planner 82,An AI platform that evaluates inputs and generates insights for better decision making.,gaming
+83,Mental Health Chat Companion 83,An intelligent assistant that provides suggestions based on contextual signals.,gaming
+84,Student Burnout Predictor 84,A recommendation system using embeddings and similarity search.,ai_tools
+85,Fake News Detector 85,A system that analyzes large datasets to produce recommendations and risk scores.,ai_tools
+86,Crowd Density Estimator 86,A system that analyzes large datasets to produce recommendations and risk scores.,music
+87,Music Mood Classifier 87,A system that analyzes large datasets to produce recommendations and risk scores.,transport
+88,Workout Form Analyzer 88,A prediction engine that forecasts outcomes using historical data.,education
+89,Personal Finance Risk Analyzer 89,A machine learning model that classifies patterns in real‑world data.,social
+90,Carbon Footprint Tracker 90,A system that analyzes large datasets to produce recommendations and risk scores.,gaming
+91,Smart Waste Segregation 91,An AI platform that evaluates inputs and generates insights for better decision making.,finance
+92,Workout Form Analyzer 92,A machine learning system that analyzes user behavior and generates optimized plans.,gaming
+93,Music Mood Classifier 93,A machine learning system that analyzes user behavior and generates optimized plans.,productivity
+94,Mental Health Chat Companion 94,A platform that visualizes complex patterns and trends through interactive dashboards.,finance
+95,Music Mood Classifier 95,A tool that processes sensor or user data to detect patterns and provide predictions.,education
+96,Mental Health Chat Companion 96,A monitoring tool that detects anomalies and alerts users.,transport
+97,Urban Noise Mapping Tool 97,An intelligent assistant that provides suggestions based on contextual signals.,ai_tools
+98,Fake News Detector 98,A prediction engine that forecasts outcomes using historical data.,healthcare
+99,Real‑time Bus Delay Predictor 99,A platform that visualizes complex patterns and trends through interactive dashboards.,gaming
+100,Adaptive Learning Path Generator 100,A machine learning model that classifies patterns in real‑world data.,ai_tools
+101,AI Study Planner 101,A recommendation system using embeddings and similarity search.,ai_tools
+102,Student Burnout Predictor 102,A machine learning model that classifies patterns in real‑world data.,transport
+103,Podcast Topic Recommender 103,A monitoring tool that detects anomalies and alerts users.,social
+104,Smart Grocery Expiry Tracker 104,A monitoring tool that detects anomalies and alerts users.,education
+105,Code Complexity Visualizer 105,A monitoring tool that detects anomalies and alerts users.,transport
+106,Workout Form Analyzer 106,An intelligent assistant that provides suggestions based on contextual signals.,transport
+107,AI Study Planner 107,A machine learning model that classifies patterns in real‑world data.,environment
+108,Smart Grocery Expiry Tracker 108,An intelligent assistant that provides suggestions based on contextual signals.,music
+109,Smart Grocery Expiry Tracker 109,An AI platform that evaluates inputs and generates insights for better decision making.,music
+110,Code Complexity Visualizer 110,A system that analyzes large datasets to produce recommendations and risk scores.,music
+111,Local Event Recommendation Engine 111,A tool that processes sensor or user data to detect patterns and provide predictions.,ai_tools
+112,Podcast Topic Recommender 112,An AI platform that evaluates inputs and generates insights for better decision making.,productivity
+113,Local Event Recommendation Engine 113,An AI platform that evaluates inputs and generates insights for better decision making.,social
+114,Fake News Detector 114,A prediction engine that forecasts outcomes using historical data.,finance
+115,Real‑time Bus Delay Predictor 115,A platform that visualizes complex patterns and trends through interactive dashboards.,environment
+116,Fake News Detector 116,A monitoring tool that detects anomalies and alerts users.,finance
+117,Crowd Density Estimator 117,A machine learning model that classifies patterns in real‑world data.,music
+118,Workout Form Analyzer 118,A platform that visualizes complex patterns and trends through interactive dashboards.,social
+119,Workout Form Analyzer 119,A recommendation system using embeddings and similarity search.,gaming
+120,Code Complexity Visualizer 120,An intelligent assistant that provides suggestions based on contextual signals.,social
+121,Fake News Detector 121,A platform that visualizes complex patterns and trends through interactive dashboards.,healthcare
+122,Real‑time Bus Delay Predictor 122,A tool that processes sensor or user data to detect patterns and provide predictions.,transport
+123,Workout Form Analyzer 123,A monitoring tool that detects anomalies and alerts users.,gaming
+124,Student Burnout Predictor 124,A recommendation system using embeddings and similarity search.,healthcare
+125,Urban Noise Mapping Tool 125,A machine learning model that classifies patterns in real‑world data.,environment
+126,AI Study Planner 126,A machine learning system that analyzes user behavior and generates optimized plans.,healthcare
+127,Workout Form Analyzer 127,A platform that visualizes complex patterns and trends through interactive dashboards.,environment
+128,Adaptive Learning Path Generator 128,A machine learning system that analyzes user behavior and generates optimized plans.,gaming
+129,Fake News Detector 129,A machine learning system that analyzes user behavior and generates optimized plans.,education
+130,Workout Form Analyzer 130,An intelligent assistant that provides suggestions based on contextual signals.,music
+131,Personal Finance Risk Analyzer 131,An AI platform that evaluates inputs and generates insights for better decision making.,finance
+132,Mental Health Chat Companion 132,A platform that visualizes complex patterns and trends through interactive dashboards.,finance
+133,Code Complexity Visualizer 133,A prediction engine that forecasts outcomes using historical data.,environment
+134,Fake News Detector 134,A machine learning model that classifies patterns in real‑world data.,healthcare
+135,Smart Grocery Expiry Tracker 135,A machine learning model that classifies patterns in real‑world data.,ai_tools
+136,Local Event Recommendation Engine 136,A system that analyzes large datasets to produce recommendations and risk scores.,finance
+137,Mental Health Chat Companion 137,An intelligent assistant that provides suggestions based on contextual signals.,social
+138,Smart Waste Segregation 138,An intelligent assistant that provides suggestions based on contextual signals.,education
+139,Local Event Recommendation Engine 139,A system that analyzes large datasets to produce recommendations and risk scores.,gaming
+140,Crowd Density Estimator 140,A system that analyzes large datasets to produce recommendations and risk scores.,healthcare
+141,Smart Grocery Expiry Tracker 141,A system that analyzes large datasets to produce recommendations and risk scores.,education
+142,Mental Health Chat Companion 142,A monitoring tool that detects anomalies and alerts users.,environment
+143,Student Burnout Predictor 143,A platform that visualizes complex patterns and trends through interactive dashboards.,music
+144,Fake News Detector 144,A system that analyzes large datasets to produce recommendations and risk scores.,healthcare
+145,Fake News Detector 145,A prediction engine that forecasts outcomes using historical data.,education
+146,Sleep Quality Predictor 146,A system that analyzes large datasets to produce recommendations and risk scores.,ai_tools
+147,Smart Grocery Expiry Tracker 147,A monitoring tool that detects anomalies and alerts users.,healthcare
+148,Urban Noise Mapping Tool 148,A tool that processes sensor or user data to detect patterns and provide predictions.,transport
+149,Carbon Footprint Tracker 149,An AI platform that evaluates inputs and generates insights for better decision making.,education
+150,Local Event Recommendation Engine 150,A recommendation system using embeddings and similarity search.,productivity
+151,Smart Grocery Expiry Tracker 151,A platform that visualizes complex patterns and trends through interactive dashboards.,environment
+152,Workout Form Analyzer 152,An AI platform that evaluates inputs and generates insights for better decision making.,environment
+153,Real‑time Bus Delay Predictor 153,A tool that processes sensor or user data to detect patterns and provide predictions.,finance
+154,AI Study Planner 154,A tool that processes sensor or user data to detect patterns and provide predictions.,productivity
+155,Student Burnout Predictor 155,A platform that visualizes complex patterns and trends through interactive dashboards.,education
+156,Workout Form Analyzer 156,A prediction engine that forecasts outcomes using historical data.,finance
+157,Student Burnout Predictor 157,A machine learning model that classifies patterns in real‑world data.,social
+158,Sleep Quality Predictor 158,A machine learning model that classifies patterns in real‑world data.,gaming
+159,Podcast Topic Recommender 159,A tool that processes sensor or user data to detect patterns and provide predictions.,environment
+160,Mental Health Chat Companion 160,A system that analyzes large datasets to produce recommendations and risk scores.,social
+161,Code Complexity Visualizer 161,A tool that processes sensor or user data to detect patterns and provide predictions.,education
+162,Carbon Footprint Tracker 162,An AI platform that evaluates inputs and generates insights for better decision making.,healthcare
+163,Podcast Topic Recommender 163,A machine learning model that classifies patterns in real‑world data.,finance
+164,Code Complexity Visualizer 164,An AI platform that evaluates inputs and generates insights for better decision making.,ai_tools
+165,Podcast Topic Recommender 165,A machine learning system that analyzes user behavior and generates optimized plans.,education
+166,Local Event Recommendation Engine 166,A machine learning system that analyzes user behavior and generates optimized plans.,education
+167,Music Mood Classifier 167,A recommendation system using embeddings and similarity search.,productivity
+168,Sleep Quality Predictor 168,An AI platform that evaluates inputs and generates insights for better decision making.,transport
+169,Podcast Topic Recommender 169,A monitoring tool that detects anomalies and alerts users.,finance
+170,AI Resume Feedback System 170,A machine learning model that classifies patterns in real‑world data.,healthcare
+171,AI Study Planner 171,A monitoring tool that detects anomalies and alerts users.,gaming
+172,Sleep Quality Predictor 172,A platform that visualizes complex patterns and trends through interactive dashboards.,social
+173,Real‑time Bus Delay Predictor 173,An intelligent assistant that provides suggestions based on contextual signals.,gaming
+174,Mental Health Chat Companion 174,A recommendation system using embeddings and similarity search.,gaming
+175,Personal Finance Risk Analyzer 175,A prediction engine that forecasts outcomes using historical data.,finance
+176,Code Complexity Visualizer 176,An AI platform that evaluates inputs and generates insights for better decision making.,finance
+177,Code Complexity Visualizer 177,A prediction engine that forecasts outcomes using historical data.,social
+178,Real‑time Bus Delay Predictor 178,A platform that visualizes complex patterns and trends through interactive dashboards.,transport
+179,Podcast Topic Recommender 179,An intelligent assistant that provides suggestions based on contextual signals.,gaming
+180,Music Mood Classifier 180,A platform that visualizes complex patterns and trends through interactive dashboards.,finance
+181,AI Resume Feedback System 181,An AI platform that evaluates inputs and generates insights for better decision making.,education
+182,Personal Finance Risk Analyzer 182,A platform that visualizes complex patterns and trends through interactive dashboards.,productivity
+183,AI Resume Feedback System 183,A platform that visualizes complex patterns and trends through interactive dashboards.,productivity
+184,Song Popularity Predictor 184,A machine learning system that analyzes user behavior and generates optimized plans.,finance
+185,Urban Noise Mapping Tool 185,An AI platform that evaluates inputs and generates insights for better decision making.,gaming
+186,Fake News Detector 186,A prediction engine that forecasts outcomes using historical data.,productivity
+187,Sleep Quality Predictor 187,An AI platform that evaluates inputs and generates insights for better decision making.,music
+188,Real‑time Bus Delay Predictor 188,A platform that visualizes complex patterns and trends through interactive dashboards.,ai_tools
+189,Crowd Density Estimator 189,A system that analyzes large datasets to produce recommendations and risk scores.,healthcare
+190,Adaptive Learning Path Generator 190,A platform that visualizes complex patterns and trends through interactive dashboards.,gaming
+191,Smart Grocery Expiry Tracker 191,An AI platform that evaluates inputs and generates insights for better decision making.,social
+192,Urban Noise Mapping Tool 192,A platform that visualizes complex patterns and trends through interactive dashboards.,healthcare
+193,Urban Noise Mapping Tool 193,A recommendation system using embeddings and similarity search.,education
+194,Mental Health Chat Companion 194,An intelligent assistant that provides suggestions based on contextual signals.,education
+195,Music Mood Classifier 195,A system that analyzes large datasets to produce recommendations and risk scores.,music
+196,AI Resume Feedback System 196,A monitoring tool that detects anomalies and alerts users.,ai_tools
+197,Smart Grocery Expiry Tracker 197,An AI platform that evaluates inputs and generates insights for better decision making.,productivity
+198,Local Event Recommendation Engine 198,An AI platform that evaluates inputs and generates insights for better decision making.,ai_tools
+199,Song Popularity Predictor 199,A system that analyzes large datasets to produce recommendations and risk scores.,environment
+200,Carbon Footprint Tracker 200,A machine learning system that analyzes user behavior and generates optimized plans.,healthcare
+201,Carbon Footprint Tracker 201,A machine learning model that classifies patterns in real‑world data.,education
+202,Song Popularity Predictor 202,An intelligent assistant that provides suggestions based on contextual signals.,gaming
+203,Urban Noise Mapping Tool 203,A prediction engine that forecasts outcomes using historical data.,gaming
+204,Mental Health Chat Companion 204,An AI platform that evaluates inputs and generates insights for better decision making.,transport
+205,Smart Waste Segregation 205,A machine learning system that analyzes user behavior and generates optimized plans.,gaming
+206,Personal Finance Risk Analyzer 206,A machine learning system that analyzes user behavior and generates optimized plans.,transport
+207,Song Popularity Predictor 207,A system that analyzes large datasets to produce recommendations and risk scores.,gaming
+208,Code Complexity Visualizer 208,A machine learning model that classifies patterns in real‑world data.,environment
+209,Music Mood Classifier 209,A recommendation system using embeddings and similarity search.,gaming
+210,Local Event Recommendation Engine 210,A recommendation system using embeddings and similarity search.,gaming
+211,Carbon Footprint Tracker 211,A prediction engine that forecasts outcomes using historical data.,education
+212,Song Popularity Predictor 212,A machine learning system that analyzes user behavior and generates optimized plans.,productivity
+213,AI Resume Feedback System 213,A tool that processes sensor or user data to detect patterns and provide predictions.,transport
+214,Workout Form Analyzer 214,A monitoring tool that detects anomalies and alerts users.,finance
+215,Adaptive Learning Path Generator 215,A system that analyzes large datasets to produce recommendations and risk scores.,gaming
+216,Smart Waste Segregation 216,A system that analyzes large datasets to produce recommendations and risk scores.,environment
+217,Urban Noise Mapping Tool 217,An intelligent assistant that provides suggestions based on contextual signals.,finance
+218,Sleep Quality Predictor 218,A platform that visualizes complex patterns and trends through interactive dashboards.,music
+219,Urban Noise Mapping Tool 219,A tool that processes sensor or user data to detect patterns and provide predictions.,gaming
+220,Crowd Density Estimator 220,A recommendation system using embeddings and similarity search.,ai_tools
+221,Urban Noise Mapping Tool 221,A monitoring tool that detects anomalies and alerts users.,finance
+222,Fake News Detector 222,An intelligent assistant that provides suggestions based on contextual signals.,music
+223,Song Popularity Predictor 223,An AI platform that evaluates inputs and generates insights for better decision making.,ai_tools
+224,AI Study Planner 224,A platform that visualizes complex patterns and trends through interactive dashboards.,social
+225,Code Complexity Visualizer 225,An AI platform that evaluates inputs and generates insights for better decision making.,education
+226,Carbon Footprint Tracker 226,An AI platform that evaluates inputs and generates insights for better decision making.,gaming
+227,Sleep Quality Predictor 227,A recommendation system using embeddings and similarity search.,finance
+228,Song Popularity Predictor 228,A prediction engine that forecasts outcomes using historical data.,finance
+229,Sleep Quality Predictor 229,An intelligent assistant that provides suggestions based on contextual signals.,productivity
+230,Workout Form Analyzer 230,An intelligent assistant that provides suggestions based on contextual signals.,environment
+231,Podcast Topic Recommender 231,A recommendation system using embeddings and similarity search.,gaming
+232,Urban Noise Mapping Tool 232,A machine learning system that analyzes user behavior and generates optimized plans.,finance
+233,Smart Grocery Expiry Tracker 233,A platform that visualizes complex patterns and trends through interactive dashboards.,productivity
+234,AI Resume Feedback System 234,A platform that visualizes complex patterns and trends through interactive dashboards.,environment
+235,Carbon Footprint Tracker 235,A prediction engine that forecasts outcomes using historical data.,music
+236,Music Mood Classifier 236,A tool that processes sensor or user data to detect patterns and provide predictions.,gaming
+237,Fake News Detector 237,A monitoring tool that detects anomalies and alerts users.,education
+238,Music Mood Classifier 238,A prediction engine that forecasts outcomes using historical data.,productivity
+239,Podcast Topic Recommender 239,An AI platform that evaluates inputs and generates insights for better decision making.,education
+240,Workout Form Analyzer 240,A monitoring tool that detects anomalies and alerts users.,finance
+241,Personal Finance Risk Analyzer 241,A prediction engine that forecasts outcomes using historical data.,transport
+242,Student Burnout Predictor 242,A tool that processes sensor or user data to detect patterns and provide predictions.,environment
+243,Adaptive Learning Path Generator 243,An AI platform that evaluates inputs and generates insights for better decision making.,ai_tools
+244,Code Complexity Visualizer 244,A recommendation system using embeddings and similarity search.,environment
+245,Local Event Recommendation Engine 245,A system that analyzes large datasets to produce recommendations and risk scores.,productivity
+246,Student Burnout Predictor 246,A tool that processes sensor or user data to detect patterns and provide predictions.,social
+247,Student Burnout Predictor 247,An AI platform that evaluates inputs and generates insights for better decision making.,social
+248,Fake News Detector 248,A machine learning system that analyzes user behavior and generates optimized plans.,healthcare
+249,Podcast Topic Recommender 249,A monitoring tool that detects anomalies and alerts users.,ai_tools
+250,AI Study Planner 250,An AI platform that evaluates inputs and generates insights for better decision making.,music
+251,Student Burnout Predictor 251,An intelligent assistant that provides suggestions based on contextual signals.,music
+252,AI Study Planner 252,An intelligent assistant that provides suggestions based on contextual signals.,transport
+253,Song Popularity Predictor 253,A machine learning model that classifies patterns in real‑world data.,ai_tools
+254,Workout Form Analyzer 254,A recommendation system using embeddings and similarity search.,ai_tools
+255,Urban Noise Mapping Tool 255,A machine learning system that analyzes user behavior and generates optimized plans.,social
+256,Smart Waste Segregation 256,A system that analyzes large datasets to produce recommendations and risk scores.,environment
+257,AI Study Planner 257,A tool that processes sensor or user data to detect patterns and provide predictions.,healthcare
+258,Smart Waste Segregation 258,A machine learning model that classifies patterns in real‑world data.,finance
+259,Personal Finance Risk Analyzer 259,An intelligent assistant that provides suggestions based on contextual signals.,music
+260,Smart Grocery Expiry Tracker 260,A tool that processes sensor or user data to detect patterns and provide predictions.,transport
+261,Carbon Footprint Tracker 261,A prediction engine that forecasts outcomes using historical data.,education
+262,AI Resume Feedback System 262,A monitoring tool that detects anomalies and alerts users.,productivity
+263,Code Complexity Visualizer 263,A recommendation system using embeddings and similarity search.,environment
+264,Smart Waste Segregation 264,An intelligent assistant that provides suggestions based on contextual signals.,healthcare
+265,Mental Health Chat Companion 265,A system that analyzes large datasets to produce recommendations and risk scores.,social
+266,Music Mood Classifier 266,A tool that processes sensor or user data to detect patterns and provide predictions.,healthcare
+267,Adaptive Learning Path Generator 267,A machine learning system that analyzes user behavior and generates optimized plans.,environment
+268,Carbon Footprint Tracker 268,A prediction engine that forecasts outcomes using historical data.,healthcare
+269,Mental Health Chat Companion 269,A recommendation system using embeddings and similarity search.,transport
+270,Personal Finance Risk Analyzer 270,An AI platform that evaluates inputs and generates insights for better decision making.,productivity
+271,Code Complexity Visualizer 271,A system that analyzes large datasets to produce recommendations and risk scores.,finance
+272,Personal Finance Risk Analyzer 272,A platform that visualizes complex patterns and trends through interactive dashboards.,transport
+273,Adaptive Learning Path Generator 273,A recommendation system using embeddings and similarity search.,music
+274,AI Resume Feedback System 274,A prediction engine that forecasts outcomes using historical data.,social
+275,Podcast Topic Recommender 275,An intelligent assistant that provides suggestions based on contextual signals.,environment
+276,Smart Waste Segregation 276,A machine learning system that analyzes user behavior and generates optimized plans.,music
+277,Sleep Quality Predictor 277,A machine learning model that classifies patterns in real‑world data.,healthcare
+278,Personal Finance Risk Analyzer 278,A recommendation system using embeddings and similarity search.,social
+279,Song Popularity Predictor 279,A system that analyzes large datasets to produce recommendations and risk scores.,education
+280,Song Popularity Predictor 280,An AI platform that evaluates inputs and generates insights for better decision making.,healthcare
+281,Song Popularity Predictor 281,A machine learning system that analyzes user behavior and generates optimized plans.,transport
+282,Smart Waste Segregation 282,A prediction engine that forecasts outcomes using historical data.,music
+283,AI Study Planner 283,A machine learning system that analyzes user behavior and generates optimized plans.,finance
+284,Real‑time Bus Delay Predictor 284,An AI platform that evaluates inputs and generates insights for better decision making.,finance
+285,Carbon Footprint Tracker 285,A machine learning model that classifies patterns in real‑world data.,ai_tools
+286,Local Event Recommendation Engine 286,A machine learning model that classifies patterns in real‑world data.,productivity
+287,Code Complexity Visualizer 287,A platform that visualizes complex patterns and trends through interactive dashboards.,music
+288,Song Popularity Predictor 288,A tool that processes sensor or user data to detect patterns and provide predictions.,education
+289,AI Resume Feedback System 289,A tool that processes sensor or user data to detect patterns and provide predictions.,transport
+290,Urban Noise Mapping Tool 290,An AI platform that evaluates inputs and generates insights for better decision making.,gaming
+291,Student Burnout Predictor 291,A machine learning system that analyzes user behavior and generates optimized plans.,finance
+292,Crowd Density Estimator 292,A prediction engine that forecasts outcomes using historical data.,education
+293,Local Event Recommendation Engine 293,A prediction engine that forecasts outcomes using historical data.,environment
+294,Music Mood Classifier 294,A platform that visualizes complex patterns and trends through interactive dashboards.,productivity
+295,Personal Finance Risk Analyzer 295,A tool that processes sensor or user data to detect patterns and provide predictions.,education
+296,Fake News Detector 296,An AI platform that evaluates inputs and generates insights for better decision making.,ai_tools
+297,Adaptive Learning Path Generator 297,A recommendation system using embeddings and similarity search.,music
+298,Code Complexity Visualizer 298,A machine learning system that analyzes user behavior and generates optimized plans.,environment
+299,Song Popularity Predictor 299,An intelligent assistant that provides suggestions based on contextual signals.,healthcare
+300,Urban Noise Mapping Tool 300,A prediction engine that forecasts outcomes using historical data.,environment
