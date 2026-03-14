@@ -3,6 +3,7 @@ import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
 
+
 def load_dataset():
     path = "../Dataset/idea_novelty_starter_dataset.csv"
 
@@ -22,9 +23,13 @@ def generate_embeddings(data):
 
     model = SentenceTransformer('all-MiniLM-L6-v2')
 
-    print("Generating embeddings from descriptions...")
+    print("Generating embeddings from title + description...")
 
-    embeddings = model.encode(data["description"].tolist())
+    texts = (data["title"] + " " + data["description"]).tolist()
+
+    embeddings = model.encode(texts)
+
+    embeddings = np.array(embeddings).astype("float32")
 
     print("Embeddings generated!")
 
@@ -33,6 +38,7 @@ def generate_embeddings(data):
     print("Embeddings saved as idea_embeddings.npy")
 
     return embeddings
+
 
 def load_embeddings():
 
@@ -51,7 +57,11 @@ def build_faiss_index(embeddings):
 
     print("Building FAISS index...")
 
-    index = faiss.IndexFlatL2(dimension)
+    # normalize vectors for cosine similarity
+    faiss.normalize_L2(embeddings)
+
+    index = faiss.IndexFlatIP(dimension)
+
     index.add(embeddings)
 
     print("FAISS index ready")
@@ -59,16 +69,19 @@ def build_faiss_index(embeddings):
     return index
 
 
-def search_similar_ideas(query_text, index, data, k=5):
+def search_similar_ideas(query_text, model, index, data, k=5):
 
     print("Encoding query idea...")
 
-    model = SentenceTransformer('all-MiniLM-L6-v2')
     query_vector = model.encode([query_text])
+
+    query_vector = np.array(query_vector).astype("float32")
+
+    faiss.normalize_L2(query_vector)
 
     print("Searching similar ideas...")
 
-    distances, indices = index.search(query_vector, k)
+    similarities, indices = index.search(query_vector, k)
 
     results = []
 
@@ -79,4 +92,4 @@ def search_similar_ideas(query_text, index, data, k=5):
             "domain": data.iloc[i]["domain"]
         })
 
-    return results
+    return similarities, results

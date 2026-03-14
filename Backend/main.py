@@ -1,10 +1,9 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 from sentence_transformers import SentenceTransformer
-import numpy as np
-import faiss
 
-from model import load_dataset, generate_embeddings
+from model import load_dataset, generate_embeddings, build_faiss_index, search_similar_ideas
+
 
 app = FastAPI()
 
@@ -20,6 +19,7 @@ class IdeaRequest(BaseModel):
 
 @app.on_event("startup")
 def startup_event():
+
     global data, embeddings, model, index
 
     print("Loading dataset...")
@@ -34,12 +34,7 @@ def startup_event():
     model = SentenceTransformer('all-MiniLM-L6-v2')
 
     print("Building FAISS index...")
-    dimension = embeddings.shape[1]
-
-    index = faiss.IndexFlatL2(dimension)
-    index.add(embeddings)
-
-    print("FAISS index ready!")
+    index = build_faiss_index(embeddings)
 
 
 @app.get("/")
@@ -51,15 +46,25 @@ def home():
 def analyze_idea(request: IdeaRequest):
 
     idea_text = request.idea
+
     print("Data Received:", idea_text)
 
-    query_embedding = model.encode([idea_text])
+    similarities, similar_ideas = search_similar_ideas(
+        idea_text,
+        model,
+        index,
+        data
+    )
 
-    distances, indices = index.search(query_embedding, 5)
+    max_similarity = similarities[0][0]
 
-    similar_ideas = data.iloc[indices[0]]["description"].tolist()
+    novelty_score = 1 - max_similarity
+
+    innovation_distance = float((1 - similarities).mean())
 
     return {
         "idea": idea_text,
+        "novelty_score": float(novelty_score),
+        "innovation_distance": innovation_distance,
         "similar_ideas": similar_ideas
     }
