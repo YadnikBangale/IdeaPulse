@@ -62,9 +62,17 @@ def analyze_idea(request: IdeaRequest):
 
     innovation_distance = float((1 - similarities).mean())
 
+    if novelty_score < 0.2:
+        interpretation = "Common Idea"
+    elif novelty_score < 0.5:
+        interpretation = "Moderately Novel"
+    else:
+        interpretation = "Highly Innovative"
+
     return {
         "idea": idea_text,
         "novelty_score": float(novelty_score),
         "innovation_distance": innovation_distance,
+        "interpretation": interpretation,
         "similar_ideas": similar_ideas
     }

@@ -46,6 +46,8 @@ def load_embeddings():
 
     embeddings = np.load("../Dataset/idea_embeddings.npy")
 
+    embeddings = embeddings.astype("float32")
+
     print("Embeddings loaded:", embeddings.shape)
 
     return embeddings
@@ -57,7 +59,6 @@ def build_faiss_index(embeddings):
 
     print("Building FAISS index...")
 
-    # normalize vectors for cosine similarity
     faiss.normalize_L2(embeddings)
 
     index = faiss.IndexFlatIP(dimension)
