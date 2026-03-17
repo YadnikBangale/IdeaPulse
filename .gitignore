@@ -71,7 +71,7 @@ Thumbs.db
 # -----------------------
 # Dataset files (optional if large)
 # -----------------------
-*.csv
+#*.csv
 
 # -----------------------
 # VS Code
