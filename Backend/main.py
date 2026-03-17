@@ -1,11 +1,19 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 from sentence_transformers import SentenceTransformer
-
+from fastapi.middleware.cors import CORSMiddleware
 from model import load_dataset, generate_embeddings, build_faiss_index, search_similar_ideas
 
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 data = None
 embeddings = None
