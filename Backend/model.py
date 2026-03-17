@@ -5,7 +5,7 @@ from sentence_transformers import SentenceTransformer
 
 
 def load_dataset():
-    path = "../Dataset/idea_novelty_starter_dataset.csv"
+    path = "../Dataset/idea_novelty_dataset_v2.csv"
 
     print("Reading dataset from:", path)
 
@@ -25,7 +25,7 @@ def generate_embeddings(data):
 
     print("Generating embeddings from title + description...")
 
-    texts = (data["title"] + " " + data["description"]).tolist()
+    texts = (data["title"] + " " + data["description"] + " " + data["domain"]).tolist()
 
     embeddings = model.encode(texts)
 
