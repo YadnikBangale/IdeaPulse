@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
+from model import generate_idea_map
 from sentence_transformers import SentenceTransformer
 from fastapi.middleware.cors import CORSMiddleware
 from model import load_dataset, generate_embeddings, build_faiss_index, search_similar_ideas
@@ -44,6 +45,8 @@ def startup_event():
     print("Building FAISS index...")
     index = build_faiss_index(embeddings)
 
+    print("Generating idea map...")
+    generate_idea_map(data, embeddings)
 
 @app.get("/")
 def home():

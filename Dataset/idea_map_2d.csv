@@ -1,0 +1,1201 @@
+idea_id,x,y,title,domain
+1,10.378816,-6.950961,Smart Monitoring Platform for Urban Traffic Flow,space
+2,9.264054,2.5021284,Intelligent Recommendation Engine for Crop Health,agriculture
+3,16.320492,5.035209,Intelligent Recommendation Engine for Air Quality In Cities,mental_health
+4,0.70720226,14.73812,Smart Monitoring Platform for Supply Chain Logistics,healthcare
+5,2.7718925,-2.1964886,Smart Monitoring Platform for Mental Wellness Patterns,productivity
+6,10.507324,-6.962348,Smart Monitoring Platform for Urban Traffic Flow,food_tech
+7,0.705012,-3.4728715,Intelligent Recommendation Engine for Energy Consumption,space
+8,11.097005,-7.025259,AI Assistant for Urban Traffic Flow,robotics
+9,-4.3667645,1.0162778,Smart Monitoring Platform for Fitness Activity Tracking,agriculture
+10,2.5787544,-1.4923592,Predictive Analytics System for Mental Wellness Patterns,finance
+11,15.414904,6.6376143,Smart Monitoring Platform for Air Quality In Cities,social
+12,11.33111,-7.4730515,Predictive Analytics System for Urban Traffic Flow,mental_health
+13,2.6560483,-1.541912,Predictive Analytics System for Mental Wellness Patterns,education
+14,2.8760777,14.849092,AI Assistant for Supply Chain Logistics,environment
+15,10.703137,-6.674063,Smart Monitoring Platform for Urban Traffic Flow,environment
+16,-8.601856,11.776335,Predictive Analytics System for Waste Management,food_tech
+17,2.3763168,13.958974,Predictive Analytics System for Supply Chain Logistics,fitness
+18,-3.7819319,0.49279022,AI Assistant for Fitness Activity Tracking,environment
+19,-1.150594,-4.216024,AI Assistant for Personal Finance Habits,robotics
+20,0.6857052,-4.4853816,AI Assistant for Energy Consumption,environment
+21,2.9341311,15.034683,AI Assistant for Supply Chain Logistics,mental_health
+22,-3.9306767,-0.6574762,Predictive Analytics System for Fitness Activity Tracking,productivity
+23,1.3880398,-0.4384415,Intelligent Recommendation Engine for Mental Wellness Patterns,education
+24,-0.4706347,-4.111217,Autonomous Optimization Tool for Energy Consumption,finance
+25,-4.297558,-0.26088685,Intelligent Recommendation Engine for Fitness Activity Tracking,fitness
+26,9.696392,-5.2307343,Predictive Analytics System for Urban Traffic Flow,education
+27,-7.6030526,12.965915,Intelligent Recommendation Engine for Waste Management,environment
+28,11.19059,-7.354294,Predictive Analytics System for Urban Traffic Flow,healthcare
+29,-1.0546911,-3.198611,Intelligent Recommendation Engine for Personal Finance Habits,education
+30,8.336504,2.5203462,Smart Monitoring Platform for Crop Health,retail
+31,-0.2734006,-0.8643051,Predictive Analytics System for Energy Consumption,retail
+32,11.057685,-6.8947716,AI Assistant for Urban Traffic Flow,space
+33,2.2325547,14.6862335,Autonomous Optimization Tool for Supply Chain Logistics,robotics
+34,-4.444101,0.6558034,Autonomous Optimization Tool for Fitness Activity Tracking,healthcare
+35,-3.668227,0.05535456,AI Assistant for Fitness Activity Tracking,agriculture
+36,9.366749,2.5250068,Intelligent Recommendation Engine for Crop Health,social
+37,-3.8158777,0.51353794,AI Assistant for Fitness Activity Tracking,environment
+38,-1.0036834,-3.2820563,Intelligent Recommendation Engine for Personal Finance Habits,robotics
+39,2.776525,13.642051,Intelligent Recommendation Engine for Supply Chain Logistics,education
+40,-4.366984,-2.6309981,AI Assistant for Student Performance,agriculture
+41,11.338605,-7.4582367,Predictive Analytics System for Urban Traffic Flow,mental_health
+42,15.09232,6.0450783,AI Assistant for Air Quality In Cities,agriculture
+43,2.2118065,13.92209,Predictive Analytics System for Supply Chain Logistics,education
+44,8.5009775,3.2438514,Autonomous Optimization Tool for Crop Health,gaming
+45,-7.748595,11.684803,Smart Monitoring Platform for Waste Management,smart_cities
+46,-4.032127,-2.4080307,Smart Monitoring Platform for Student Performance,transport
+47,11.098707,-7.528479,Predictive Analytics System for Urban Traffic Flow,mental_health
+48,15.617804,4.2085485,Intelligent Recommendation Engine for Air Quality In Cities,robotics
+49,0.13825935,-1.0876968,Smart Monitoring Platform for Energy Consumption,finance
+50,0.1043411,-1.1043136,Autonomous Optimization Tool for Energy Consumption,smart_cities
+51,2.874023,14.875124,AI Assistant for Supply Chain Logistics,space
+52,-8.193772,12.342764,AI Assistant for Waste Management,transport
+53,9.886472,-5.485085,Smart Monitoring Platform for Urban Traffic Flow,robotics
+54,0.5818925,-4.286154,AI Assistant for Energy Consumption,retail
+55,-0.81251675,-4.5093217,Autonomous Optimization Tool for Personal Finance Habits,mental_health
+56,9.0883045,2.2637734,Intelligent Recommendation Engine for Crop Health,healthcare
+57,0.969672,-3.5710948,Intelligent Recommendation Engine for Energy Consumption,cybersecurity
+58,-8.308851,12.565063,AI Assistant for Waste Management,social
+59,15.419207,3.9321585,Predictive Analytics System for Air Quality In Cities,retail
+60,-1.7606639,-4.249418,Smart Monitoring Platform for Personal Finance Habits,transport
+61,8.473939,2.477899,Smart Monitoring Platform for Crop Health,transport
+62,-0.9891529,-1.7384472,AI Assistant for Personal Finance Habits,environment
+63,9.721999,-5.257119,Predictive Analytics System for Urban Traffic Flow,finance
+64,2.6058624,-1.6379466,Predictive Analytics System for Mental Wellness Patterns,transport
+65,1.2601976,-4.139151,Smart Monitoring Platform for Energy Consumption,food_tech
+66,-0.6224445,0.0024980202,Autonomous Optimization Tool for Student Performance,productivity
+67,-1.573826,-0.24555087,Autonomous Optimization Tool for Fitness Activity Tracking,environment
+68,-8.016531,11.50234,Smart Monitoring Platform for Waste Management,energy
+69,3.508785,-1.8853469,AI Assistant for Mental Wellness Patterns,energy
+70,11.282415,-6.827686,Autonomous Optimization Tool for Urban Traffic Flow,social
+71,9.642373,0.8537134,Autonomous Optimization Tool for Crop Health,mental_health
+72,-0.5219967,-0.10155812,AI Assistant for Student Performance,smart_cities
+73,0.8388225,-4.450866,Smart Monitoring Platform for Energy Consumption,environment
+74,0.414825,-4.212746,AI Assistant for Energy Consumption,fitness
+75,11.465153,-7.3128977,Autonomous Optimization Tool for Urban Traffic Flow,mental_health
+76,0.6838667,-3.961421,Predictive Analytics System for Energy Consumption,healthcare
+77,16.168982,6.0401206,Predictive Analytics System for Air Quality In Cities,cybersecurity
+78,2.966189,-0.855918,Intelligent Recommendation Engine for Mental Wellness Patterns,education
+79,-4.6930327,-2.2773817,Predictive Analytics System for Student Performance,social
+80,10.861724,-6.725979,Smart Monitoring Platform for Urban Traffic Flow,finance
+81,-1.6514565,-4.046344,Smart Monitoring Platform for Personal Finance Habits,gaming
+82,-7.737941,11.552359,Smart Monitoring Platform for Waste Management,mental_health
+83,3.0871434,13.933339,Intelligent Recommendation Engine for Supply Chain Logistics,retail
+84,-0.64643127,-1.6324018,Autonomous Optimization Tool for Personal Finance Habits,smart_cities
+85,2.727227,-2.0726671,Smart Monitoring Platform for Mental Wellness Patterns,retail
+86,1.1343173,15.0311575,Smart Monitoring Platform for Supply Chain Logistics,transport
+87,-0.9757307,-4.675079,AI Assistant for Personal Finance Habits,food_tech
+88,-8.1712055,11.851759,Autonomous Optimization Tool for Waste Management,mental_health
+89,-4.3238735,-2.104153,Autonomous Optimization Tool for Student Performance,food_tech
+90,10.826027,-6.753302,Smart Monitoring Platform for Urban Traffic Flow,space
+91,16.337675,5.787682,Predictive Analytics System for Air Quality In Cities,social
+92,-0.767485,0.15875359,Intelligent Recommendation Engine for Student Performance,cybersecurity
+93,8.2515955,2.4982245,Smart Monitoring Platform for Crop Health,social
+94,-1.0890297,-3.9720788,Autonomous Optimization Tool for Personal Finance Habits,space
+95,-7.80221,11.541349,Smart Monitoring Platform for Waste Management,productivity
+96,8.665385,2.749603,Predictive Analytics System for Crop Health,robotics
+97,0.7993913,-3.9406352,Predictive Analytics System for Energy Consumption,education
+98,8.342037,2.4440658,Smart Monitoring Platform for Crop Health,cybersecurity
+99,-4.4871955,0.8422371,Autonomous Optimization Tool for Fitness Activity Tracking,agriculture
+100,-4.2940845,0.3398266,Autonomous Optimization Tool for Fitness Activity Tracking,smart_cities
+101,-3.8408253,0.43459925,AI Assistant for Fitness Activity Tracking,fitness
+102,8.24208,2.9351964,Autonomous Optimization Tool for Crop Health,smart_cities
+103,10.097405,-7.2075295,Autonomous Optimization Tool for Urban Traffic Flow,smart_cities
+104,11.000922,-6.9313045,AI Assistant for Urban Traffic Flow,finance
+105,-8.354197,12.384694,Autonomous Optimization Tool for Waste Management,education
+106,9.709668,0.8042363,AI Assistant for Crop Health,retail
+107,2.1038227,13.95738,Predictive Analytics System for Supply Chain Logistics,transport
+108,9.66927,0.8924567,Smart Monitoring Platform for Crop Health,cybersecurity
+109,11.317331,-7.183172,Autonomous Optimization Tool for Urban Traffic Flow,healthcare
+110,-0.8228657,-3.8746889,Autonomous Optimization Tool for Personal Finance Habits,social
+111,3.7251275,-1.875889,AI Assistant for Mental Wellness Patterns,energy
+112,2.260316,14.659065,Autonomous Optimization Tool for Supply Chain Logistics,social
+113,-7.04926,11.867239,Smart Monitoring Platform for Waste Management,robotics
+114,1.4860187,-3.87394,Autonomous Optimization Tool for Energy Consumption,smart_cities
+115,10.898375,-7.5030594,Predictive Analytics System for Urban Traffic Flow,productivity
+116,-1.4544362,-0.29336846,Predictive Analytics System for Fitness Activity Tracking,retail
+117,-3.935148,0.94954896,Smart Monitoring Platform for Fitness Activity Tracking,space
+118,1.2074128,-0.6661331,Predictive Analytics System for Mental Wellness Patterns,mental_health
+119,10.864296,-7.5845423,Intelligent Recommendation Engine for Urban Traffic Flow,healthcare
+120,-4.047366,-1.1437858,Predictive Analytics System for Student Performance,fitness
+121,-8.1938305,11.771606,Autonomous Optimization Tool for Waste Management,finance
+122,9.108279,2.283637,Intelligent Recommendation Engine for Crop Health,productivity
+123,-4.209139,-2.6529284,Smart Monitoring Platform for Student Performance,education
+124,8.233534,3.0057597,Autonomous Optimization Tool for Crop Health,cybersecurity
+125,1.3545364,-0.5248804,Intelligent Recommendation Engine for Mental Wellness Patterns,retail
+126,1.230311,-4.2633176,Predictive Analytics System for Energy Consumption,gaming
+127,-0.730198,0.17387849,Intelligent Recommendation Engine for Student Performance,gaming
+128,9.702465,0.78301984,AI Assistant for Crop Health,finance
+129,0.44905064,-3.8751893,Intelligent Recommendation Engine for Energy Consumption,fitness
+130,8.330394,3.1080601,Autonomous Optimization Tool for Crop Health,finance
+131,16.283945,4.9664946,Intelligent Recommendation Engine for Air Quality In Cities,mental_health
+132,-1.1598471,-4.4765205,AI Assistant for Personal Finance Habits,education
+133,-5.1406794,-2.1449966,Predictive Analytics System for Student Performance,smart_cities
+134,3.0331726,-1.8578535,Autonomous Optimization Tool for Mental Wellness Patterns,productivity
+135,8.839871,2.63948,Predictive Analytics System for Crop Health,mental_health
+136,0.82587165,-3.5288353,Intelligent Recommendation Engine for Energy Consumption,retail
+137,10.980236,-7.5266166,Predictive Analytics System for Urban Traffic Flow,robotics
+138,3.0719805,13.876956,Intelligent Recommendation Engine for Supply Chain Logistics,energy
+139,-4.0735273,-2.537905,Smart Monitoring Platform for Student Performance,mental_health
+140,-6.8933725,12.121602,Autonomous Optimization Tool for Waste Management,mental_health
+141,16.316133,5.839633,Predictive Analytics System for Air Quality In Cities,transport
+142,0.9348853,15.116883,Smart Monitoring Platform for Supply Chain Logistics,food_tech
+143,8.708744,3.5197947,AI Assistant for Crop Health,agriculture
+144,0.75075716,-4.722503,AI Assistant for Energy Consumption,transport
+145,9.913092,-5.527737,Smart Monitoring Platform for Urban Traffic Flow,fitness
+146,-3.904033,-0.6796213,Predictive Analytics System for Fitness Activity Tracking,productivity
+147,2.543692,14.859538,Autonomous Optimization Tool for Supply Chain Logistics,healthcare
+148,-1.7395003,-4.1349006,Smart Monitoring Platform for Personal Finance Habits,social
+149,0.11765815,-1.0810559,Smart Monitoring Platform for Energy Consumption,social
+150,3.0323389,-0.89913,Intelligent Recommendation Engine for Mental Wellness Patterns,retail
+151,2.7454624,-2.135836,Smart Monitoring Platform for Mental Wellness Patterns,smart_cities
+152,-3.89651,-0.33484182,Predictive Analytics System for Fitness Activity Tracking,smart_cities
+153,2.4225295,13.918904,Predictive Analytics System for Supply Chain Logistics,food_tech
+154,-3.9684148,0.78746784,Smart Monitoring Platform for Fitness Activity Tracking,robotics
+155,0.9984197,15.134199,Smart Monitoring Platform for Supply Chain Logistics,environment
+156,3.043635,-0.9535956,Intelligent Recommendation Engine for Mental Wellness Patterns,food_tech
+157,10.7114935,-7.1560264,AI Assistant for Urban Traffic Flow,healthcare
+158,-4.443831,-0.19658259,Intelligent Recommendation Engine for Fitness Activity Tracking,gaming
+159,-1.3026898,-3.6054688,Predictive Analytics System for Personal Finance Habits,space
+160,-7.607814,12.993451,Intelligent Recommendation Engine for Waste Management,transport
+161,1.0938584,-4.512563,AI Assistant for Energy Consumption,social
+162,-0.46642095,-1.4119725,Predictive Analytics System for Personal Finance Habits,education
+163,-3.538938,0.42235783,AI Assistant for Fitness Activity Tracking,finance
+164,-0.19251092,-0.8278726,Predictive Analytics System for Energy Consumption,energy
+165,2.157136,13.860625,Predictive Analytics System for Supply Chain Logistics,fitness
+166,0.79255193,-4.400621,Smart Monitoring Platform for Energy Consumption,retail
+167,11.069072,-7.467515,Predictive Analytics System for Urban Traffic Flow,agriculture
+168,-6.9101105,12.110225,AI Assistant for Waste Management,education
+169,-5.4913116,-2.1782753,Autonomous Optimization Tool for Student Performance,robotics
+170,3.125554,-1.9220722,Autonomous Optimization Tool for Mental Wellness Patterns,environment
+171,8.442959,3.2984369,Autonomous Optimization Tool for Crop Health,agriculture
+172,-1.0358254,-3.9225342,Autonomous Optimization Tool for Personal Finance Habits,retail
+173,1.113408,-0.5651511,Smart Monitoring Platform for Mental Wellness Patterns,robotics
+174,-1.2250217,-4.0173054,Autonomous Optimization Tool for Personal Finance Habits,transport
+175,-4.060348,-2.601736,Smart Monitoring Platform for Student Performance,healthcare
+176,0.6924669,-4.2764473,Autonomous Optimization Tool for Energy Consumption,agriculture
+177,-8.3007765,12.197135,Autonomous Optimization Tool for Waste Management,mental_health
+178,2.6163492,-2.2138705,Smart Monitoring Platform for Mental Wellness Patterns,finance
+179,-7.897404,11.440317,Smart Monitoring Platform for Waste Management,mental_health
+180,-4.6221924,-2.2096095,Predictive Analytics System for Student Performance,robotics
+181,2.75017,-1.5836815,Predictive Analytics System for Mental Wellness Patterns,social
+182,3.0345364,-0.87975925,Intelligent Recommendation Engine for Mental Wellness Patterns,productivity
+183,10.666187,-7.099585,AI Assistant for Urban Traffic Flow,finance
+184,1.0363662,-4.224818,AI Assistant for Energy Consumption,agriculture
+185,-4.5357985,-0.024220759,Intelligent Recommendation Engine for Fitness Activity Tracking,gaming
+186,1.3004497,-4.3024235,Smart Monitoring Platform for Energy Consumption,environment
+187,-7.9230723,13.099344,Intelligent Recommendation Engine for Waste Management,finance
+188,-4.480442,0.7554577,Autonomous Optimization Tool for Fitness Activity Tracking,food_tech
+189,-0.99631524,-4.0284176,Autonomous Optimization Tool for Personal Finance Habits,agriculture
+190,-1.3424985,-3.6572998,Predictive Analytics System for Personal Finance Habits,healthcare
+191,-7.635423,12.900881,Intelligent Recommendation Engine for Waste Management,fitness
+192,0.9626019,-3.577341,Intelligent Recommendation Engine for Energy Consumption,food_tech
+193,-1.6152645,-0.23715836,AI Assistant for Fitness Activity Tracking,education
+194,2.8953514,13.640962,Intelligent Recommendation Engine for Supply Chain Logistics,finance
+195,-1.6065102,-0.23784268,Autonomous Optimization Tool for Fitness Activity Tracking,fitness
+196,-8.654695,11.912448,Predictive Analytics System for Waste Management,energy
+197,-8.363939,12.277951,Autonomous Optimization Tool for Waste Management,agriculture
+198,2.8586757,-1.6285343,Predictive Analytics System for Mental Wellness Patterns,agriculture
+199,-4.537257,0.36335787,Autonomous Optimization Tool for Fitness Activity Tracking,gaming
+200,9.704988,0.8576647,Predictive Analytics System for Crop Health,agriculture
+201,-4.509632,0.950076,Autonomous Optimization Tool for Fitness Activity Tracking,agriculture
+202,9.288158,2.276765,Intelligent Recommendation Engine for Crop Health,cybersecurity
+203,-5.074189,-1.7046012,Intelligent Recommendation Engine for Student Performance,productivity
+204,-5.5391054,-2.1913548,AI Assistant for Student Performance,healthcare
+205,-1.0038975,-3.2651463,Intelligent Recommendation Engine for Personal Finance Habits,smart_cities
+206,15.529729,5.83575,Autonomous Optimization Tool for Air Quality In Cities,smart_cities
+207,-5.3232903,-2.0628495,Predictive Analytics System for Student Performance,productivity
+208,15.580809,5.843191,Autonomous Optimization Tool for Air Quality In Cities,transport
+209,16.01724,6.043539,Predictive Analytics System for Air Quality In Cities,environment
+210,8.718895,2.7307959,Predictive Analytics System for Crop Health,healthcare
+211,10.159254,-7.253578,Autonomous Optimization Tool for Urban Traffic Flow,gaming
+212,0.924323,15.08515,Smart Monitoring Platform for Supply Chain Logistics,fitness
+213,-7.6798573,11.654331,Smart Monitoring Platform for Waste Management,robotics
+214,10.871505,-6.6262755,Smart Monitoring Platform for Urban Traffic Flow,smart_cities
+215,9.80153,-5.388911,AI Assistant for Urban Traffic Flow,energy
+216,-4.9473944,-1.757023,Intelligent Recommendation Engine for Student Performance,food_tech
+217,9.771225,-5.3473477,Autonomous Optimization Tool for Urban Traffic Flow,energy
+218,-4.600746,-2.635919,AI Assistant for Student Performance,productivity
+219,3.568886,-1.990351,AI Assistant for Mental Wellness Patterns,environment
+220,15.535524,4.089421,Intelligent Recommendation Engine for Air Quality In Cities,finance
+221,8.268685,2.6057823,Smart Monitoring Platform for Crop Health,finance
+222,-5.102754,-1.7085623,Intelligent Recommendation Engine for Student Performance,mental_health
+223,9.748431,-5.3196473,Autonomous Optimization Tool for Urban Traffic Flow,agriculture
+224,8.666247,3.5784154,AI Assistant for Crop Health,gaming
+225,15.077831,6.071586,AI Assistant for Air Quality In Cities,agriculture
+226,15.602478,5.7829456,Autonomous Optimization Tool for Air Quality In Cities,education
+227,15.611416,4.1818137,Intelligent Recommendation Engine for Air Quality In Cities,environment
+228,-3.786276,-0.43698227,Predictive Analytics System for Fitness Activity Tracking,finance
+229,15.6205015,4.2033477,Intelligent Recommendation Engine for Air Quality In Cities,fitness
+230,-4.2758822,-2.5825593,Smart Monitoring Platform for Student Performance,smart_cities
+231,-0.45115507,-1.4009581,Predictive Analytics System for Personal Finance Habits,education
+232,3.0306115,14.536164,AI Assistant for Supply Chain Logistics,gaming
+233,2.4271026,14.798765,Autonomous Optimization Tool for Supply Chain Logistics,healthcare
+234,-3.9500732,-0.45772874,Predictive Analytics System for Fitness Activity Tracking,environment
+235,-4.320744,0.45529997,Autonomous Optimization Tool for Fitness Activity Tracking,mental_health
+236,-4.2720556,-2.508939,Smart Monitoring Platform for Student Performance,robotics
+237,2.7893422,14.244106,Autonomous Optimization Tool for Supply Chain Logistics,education
+238,-7.78131,11.535303,Smart Monitoring Platform for Waste Management,retail
+239,0.64085424,-4.495856,Autonomous Optimization Tool for Energy Consumption,robotics
+240,1.1874713,-0.637818,Autonomous Optimization Tool for Mental Wellness Patterns,cybersecurity
+241,1.0904964,-4.061784,Predictive Analytics System for Energy Consumption,cybersecurity
+242,-0.9313347,-4.6299987,AI Assistant for Personal Finance Habits,food_tech
+243,1.0338421,15.213457,Smart Monitoring Platform for Supply Chain Logistics,energy
+244,1.8111845,-3.6569915,Autonomous Optimization Tool for Energy Consumption,mental_health
+245,-3.9658139,0.8383536,Smart Monitoring Platform for Fitness Activity Tracking,robotics
+246,10.431405,-7.719284,Intelligent Recommendation Engine for Urban Traffic Flow,retail
+247,2.7132506,-1.4969487,Predictive Analytics System for Mental Wellness Patterns,education
+248,-4.509191,0.8277395,Autonomous Optimization Tool for Fitness Activity Tracking,agriculture
+249,15.44251,3.9259827,Predictive Analytics System for Air Quality In Cities,education
+250,-1.0414032,-4.585255,AI Assistant for Personal Finance Habits,food_tech
+251,3.0349588,-2.2147095,Smart Monitoring Platform for Mental Wellness Patterns,productivity
+252,-0.65312487,0.034693465,Autonomous Optimization Tool for Student Performance,social
+253,15.533907,5.9155006,Autonomous Optimization Tool for Air Quality In Cities,gaming
+254,8.717905,3.6666985,AI Assistant for Crop Health,productivity
+255,9.253997,2.5227613,Intelligent Recommendation Engine for Crop Health,fitness
+256,-4.4172626,-0.20350063,Intelligent Recommendation Engine for Fitness Activity Tracking,gaming
+257,10.508219,-6.847209,Smart Monitoring Platform for Urban Traffic Flow,food_tech
+258,1.539238,-3.8702874,Smart Monitoring Platform for Energy Consumption,energy
+259,3.1325388,-1.9609488,Autonomous Optimization Tool for Mental Wellness Patterns,environment
+260,2.2395535,15.161147,Autonomous Optimization Tool for Supply Chain Logistics,space
+261,9.314192,2.5267856,Intelligent Recommendation Engine for Crop Health,finance
+262,-6.924716,12.321103,Intelligent Recommendation Engine for Waste Management,social
+263,-8.435002,12.139981,Autonomous Optimization Tool for Waste Management,retail
+264,-1.6247172,-0.23858987,Intelligent Recommendation Engine for Fitness Activity Tracking,space
+265,-3.7260695,0.041323546,AI Assistant for Fitness Activity Tracking,agriculture
+266,-3.6785192,0.100143686,AI Assistant for Fitness Activity Tracking,agriculture
+267,3.4274995,-2.1150482,Autonomous Optimization Tool for Mental Wellness Patterns,cybersecurity
+268,16.27457,5.788531,Predictive Analytics System for Air Quality In Cities,environment
+269,15.464964,6.8057685,Smart Monitoring Platform for Air Quality In Cities,healthcare
+270,2.7577271,-1.9918724,Smart Monitoring Platform for Mental Wellness Patterns,agriculture
+271,-4.1329556,0.8935185,Smart Monitoring Platform for Fitness Activity Tracking,healthcare
+272,-0.22918814,-1.3703802,Smart Monitoring Platform for Personal Finance Habits,energy
+273,10.286032,-7.571648,Predictive Analytics System for Urban Traffic Flow,finance
+274,-3.916719,0.5068695,AI Assistant for Fitness Activity Tracking,cybersecurity
+275,9.327353,2.4044063,Intelligent Recommendation Engine for Crop Health,productivity
+276,0.23505434,-1.0256321,Smart Monitoring Platform for Energy Consumption,mental_health
+277,-4.339639,-1.9507954,Autonomous Optimization Tool for Student Performance,mental_health
+278,15.582171,5.8503613,Autonomous Optimization Tool for Air Quality In Cities,finance
+279,-1.3441234,-3.581553,Predictive Analytics System for Personal Finance Habits,finance
+280,-4.319057,-2.2049448,Predictive Analytics System for Student Performance,food_tech
+281,-4.36776,-0.2576965,Intelligent Recommendation Engine for Fitness Activity Tracking,education
+282,10.719043,-6.643184,Smart Monitoring Platform for Urban Traffic Flow,smart_cities
+283,-4.174913,0.9558701,Smart Monitoring Platform for Fitness Activity Tracking,healthcare
+284,3.109304,-1.9216063,Autonomous Optimization Tool for Mental Wellness Patterns,mental_health
+285,10.640231,-6.746804,Smart Monitoring Platform for Urban Traffic Flow,robotics
+286,10.467922,-7.0523815,Smart Monitoring Platform for Urban Traffic Flow,mental_health
+287,2.8972924,14.367647,AI Assistant for Supply Chain Logistics,transport
+288,-4.6183505,-2.559909,Autonomous Optimization Tool for Student Performance,transport
+289,-8.431007,12.205153,Autonomous Optimization Tool for Waste Management,gaming
+290,-4.1617117,-2.4449055,Smart Monitoring Platform for Student Performance,fitness
+291,15.4322195,6.6017923,Smart Monitoring Platform for Air Quality In Cities,fitness
+292,0.10369906,-1.144815,Smart Monitoring Platform for Energy Consumption,finance
+293,-8.359532,12.391091,Autonomous Optimization Tool for Waste Management,education
+294,1.1625082,-0.61619836,Smart Monitoring Platform for Mental Wellness Patterns,fitness
+295,15.439799,6.7949066,Smart Monitoring Platform for Air Quality In Cities,energy
+296,-5.0865874,-1.6737403,Intelligent Recommendation Engine for Student Performance,social
+297,8.479711,3.3768263,Autonomous Optimization Tool for Crop Health,social
+298,11.142505,-7.16196,AI Assistant for Urban Traffic Flow,fitness
+299,8.294928,2.6023471,Smart Monitoring Platform for Crop Health,space
+300,-3.7490342,0.1149559,AI Assistant for Fitness Activity Tracking,space
+301,2.7749462,13.46666,Intelligent Recommendation Engine for Supply Chain Logistics,productivity
+302,16.236414,4.876073,Intelligent Recommendation Engine for Air Quality In Cities,space
+303,10.283155,-7.26511,Smart Monitoring Platform for Urban Traffic Flow,social
+304,1.3023175,14.936033,Smart Monitoring Platform for Supply Chain Logistics,retail
+305,2.8768659,14.822221,AI Assistant for Supply Chain Logistics,transport
+306,15.007993,6.1075416,AI Assistant for Air Quality In Cities,finance
+307,2.579844,14.327768,Autonomous Optimization Tool for Supply Chain Logistics,healthcare
+308,15.418479,6.889554,Smart Monitoring Platform for Air Quality In Cities,food_tech
+309,10.814978,-7.6252327,Intelligent Recommendation Engine for Urban Traffic Flow,fitness
+310,-8.589022,11.877921,Predictive Analytics System for Waste Management,productivity
+311,8.787938,3.4458811,AI Assistant for Crop Health,productivity
+312,11.182631,-7.1664886,Autonomous Optimization Tool for Urban Traffic Flow,fitness
+313,-0.84878266,-4.6492314,AI Assistant for Personal Finance Habits,energy
+314,-5.029172,-1.6978284,Intelligent Recommendation Engine for Student Performance,transport
+315,-5.185079,-2.0512097,Smart Monitoring Platform for Student Performance,fitness
+316,9.79522,-5.3235583,Predictive Analytics System for Urban Traffic Flow,agriculture
+317,-8.593864,11.885981,Predictive Analytics System for Waste Management,space
+318,0.7365211,14.778121,Smart Monitoring Platform for Supply Chain Logistics,mental_health
+319,2.6700504,-1.6672207,Predictive Analytics System for Mental Wellness Patterns,energy
+320,8.748554,2.5796444,Predictive Analytics System for Crop Health,environment
+321,15.043952,5.9799757,AI Assistant for Air Quality In Cities,productivity
+322,2.3392296,14.604702,Autonomous Optimization Tool for Supply Chain Logistics,mental_health
+323,-8.2342415,12.3738985,AI Assistant for Waste Management,transport
+324,2.427517,13.93852,Predictive Analytics System for Supply Chain Logistics,robotics
+325,-3.8801112,0.06684927,Autonomous Optimization Tool for Fitness Activity Tracking,energy
+326,0.7542856,-3.4415734,Intelligent Recommendation Engine for Energy Consumption,space
+327,16.212076,4.845945,Intelligent Recommendation Engine for Air Quality In Cities,space
+328,10.827969,-7.743225,Intelligent Recommendation Engine for Urban Traffic Flow,agriculture
+329,3.679176,-1.9415123,AI Assistant for Mental Wellness Patterns,cybersecurity
+330,-4.1658993,0.38039118,AI Assistant for Fitness Activity Tracking,gaming
+331,-4.3249297,-1.9519035,Autonomous Optimization Tool for Student Performance,energy
+332,9.308682,2.521295,Intelligent Recommendation Engine for Crop Health,fitness
+333,9.15459,2.6078963,Intelligent Recommendation Engine for Crop Health,fitness
+334,3.2281353,-2.1245046,Autonomous Optimization Tool for Mental Wellness Patterns,cybersecurity
+335,0.7117531,14.772496,Smart Monitoring Platform for Supply Chain Logistics,mental_health
+336,10.748012,-6.672968,Smart Monitoring Platform for Urban Traffic Flow,smart_cities
+337,2.682104,14.179425,Autonomous Optimization Tool for Supply Chain Logistics,environment
+338,-4.6614485,-2.309213,Predictive Analytics System for Student Performance,healthcare
+339,8.74995,3.2397594,AI Assistant for Crop Health,robotics
+340,8.953628,2.1744816,Predictive Analytics System for Crop Health,environment
+341,-7.063251,11.783106,Smart Monitoring Platform for Waste Management,retail
+342,-7.566587,12.94361,Intelligent Recommendation Engine for Waste Management,agriculture
+343,-7.9590473,11.496789,Smart Monitoring Platform for Waste Management,fitness
+344,-0.8372669,-4.4308653,Autonomous Optimization Tool for Personal Finance Habits,agriculture
+345,-4.09011,0.9640461,Smart Monitoring Platform for Fitness Activity Tracking,education
+346,-1.0035651,-4.663146,AI Assistant for Personal Finance Habits,education
+347,15.08393,5.938985,AI Assistant for Air Quality In Cities,social
+348,-8.094746,12.15742,Autonomous Optimization Tool for Waste Management,healthcare
+349,-3.883112,-0.42800033,Predictive Analytics System for Fitness Activity Tracking,environment
+350,1.4077518,-3.9308822,Autonomous Optimization Tool for Energy Consumption,transport
+351,8.343892,2.6105719,Smart Monitoring Platform for Crop Health,social
+352,0.99707633,-4.505528,AI Assistant for Energy Consumption,cybersecurity
+353,-4.2925706,0.3330445,Smart Monitoring Platform for Fitness Activity Tracking,gaming
+354,9.305087,2.481066,Intelligent Recommendation Engine for Crop Health,gaming
+355,15.575081,6.079565,Autonomous Optimization Tool for Air Quality In Cities,space
+356,-3.8583972,0.6529029,AI Assistant for Fitness Activity Tracking,education
+357,15.036796,6.0902114,AI Assistant for Air Quality In Cities,retail
+358,15.459385,3.9661348,Predictive Analytics System for Air Quality In Cities,fitness
+359,-0.9294254,-3.3892097,Intelligent Recommendation Engine for Personal Finance Habits,robotics
+360,1.2042773,-0.6560666,AI Assistant for Mental Wellness Patterns,energy
+361,-4.314577,-0.2587549,Intelligent Recommendation Engine for Fitness Activity Tracking,fitness
+362,-1.0517999,-3.3245778,Intelligent Recommendation Engine for Personal Finance Habits,food_tech
+363,1.1429726,-0.6102597,Smart Monitoring Platform for Mental Wellness Patterns,agriculture
+364,0.06605941,-1.0298654,Autonomous Optimization Tool for Energy Consumption,energy
+365,-1.8097799,-4.186605,Smart Monitoring Platform for Personal Finance Habits,agriculture
+366,3.0807657,13.892664,Intelligent Recommendation Engine for Supply Chain Logistics,food_tech
+367,2.492714,13.905826,Predictive Analytics System for Supply Chain Logistics,gaming
+368,-4.753735,-2.2975833,Autonomous Optimization Tool for Student Performance,social
+369,0.9473533,15.129103,Smart Monitoring Platform for Supply Chain Logistics,agriculture
+370,-0.39200196,-0.13883053,Smart Monitoring Platform for Student Performance,energy
+371,2.1802664,14.687717,Autonomous Optimization Tool for Supply Chain Logistics,agriculture
+372,3.1044042,-2.2207367,Autonomous Optimization Tool for Mental Wellness Patterns,environment
+373,16.146416,4.848846,Intelligent Recommendation Engine for Air Quality In Cities,agriculture
+374,15.353608,4.040494,AI Assistant for Air Quality In Cities,fitness
+375,3.7438498,-1.8692099,AI Assistant for Mental Wellness Patterns,healthcare
+376,10.917541,-7.4702706,Predictive Analytics System for Urban Traffic Flow,food_tech
+377,-1.0768186,-3.2468264,Intelligent Recommendation Engine for Personal Finance Habits,mental_health
+378,-7.6008177,12.945839,Intelligent Recommendation Engine for Waste Management,retail
+379,-0.2622615,-0.8485178,Predictive Analytics System for Energy Consumption,education
+380,-4.404942,-2.1122463,Autonomous Optimization Tool for Student Performance,agriculture
+381,9.638789,0.9182275,Intelligent Recommendation Engine for Crop Health,agriculture
+382,1.1220015,-4.3655834,Smart Monitoring Platform for Energy Consumption,space
+383,15.284208,3.812763,Smart Monitoring Platform for Air Quality In Cities,productivity
+384,1.1633877,-0.6577252,Autonomous Optimization Tool for Mental Wellness Patterns,retail
+385,1.325452,-0.46552458,Intelligent Recommendation Engine for Mental Wellness Patterns,fitness
+386,-0.98139805,-3.4407609,Intelligent Recommendation Engine for Personal Finance Habits,robotics
+387,15.517662,6.7812,Smart Monitoring Platform for Air Quality In Cities,transport
+388,0.5581058,-4.402731,Autonomous Optimization Tool for Energy Consumption,healthcare
+389,15.110287,5.9176745,AI Assistant for Air Quality In Cities,energy
+390,0.7079628,-4.5132236,Smart Monitoring Platform for Energy Consumption,robotics
+391,-8.65117,11.919717,Predictive Analytics System for Waste Management,productivity
+392,-7.62423,12.987591,Intelligent Recommendation Engine for Waste Management,space
+393,3.066015,13.907683,Intelligent Recommendation Engine for Supply Chain Logistics,retail
+394,1.0241172,-4.431472,Autonomous Optimization Tool for Energy Consumption,transport
+395,-0.061534304,-1.1034766,Intelligent Recommendation Engine for Energy Consumption,transport
+396,-0.9156723,-4.6489844,AI Assistant for Personal Finance Habits,agriculture
+397,2.936154,13.710615,Intelligent Recommendation Engine for Supply Chain Logistics,social
+398,2.0468786,14.059291,Predictive Analytics System for Supply Chain Logistics,smart_cities
+399,-8.470904,12.24164,Autonomous Optimization Tool for Waste Management,agriculture
+400,-8.299566,12.942997,Autonomous Optimization Tool for Waste Management,cybersecurity
+401,-4.421449,0.3714061,Autonomous Optimization Tool for Fitness Activity Tracking,gaming
+402,15.465745,6.697117,Smart Monitoring Platform for Air Quality In Cities,space
+403,0.0871096,-1.056326,AI Assistant for Energy Consumption,energy
+404,9.756862,0.74957013,AI Assistant for Crop Health,education
+405,8.751215,3.6272063,AI Assistant for Crop Health,healthcare
+406,2.8130927,13.743858,Intelligent Recommendation Engine for Supply Chain Logistics,finance
+407,2.7524939,-2.0947134,Smart Monitoring Platform for Mental Wellness Patterns,social
+408,2.751463,-2.0257134,Smart Monitoring Platform for Mental Wellness Patterns,space
+409,11.026495,-7.0116167,AI Assistant for Urban Traffic Flow,smart_cities
+410,-7.941177,13.117069,Intelligent Recommendation Engine for Waste Management,energy
+411,-4.716363,-2.4473846,Autonomous Optimization Tool for Student Performance,finance
+412,-0.2610467,-4.5683527,AI Assistant for Energy Consumption,finance
+413,2.8713474,13.648596,Intelligent Recommendation Engine for Supply Chain Logistics,productivity
+414,16.303751,5.751261,Predictive Analytics System for Air Quality In Cities,social
+415,-1.9277968,-4.047894,Smart Monitoring Platform for Personal Finance Habits,fitness
+416,16.198551,5.9564857,Predictive Analytics System for Air Quality In Cities,energy
+417,15.441443,6.8166347,Smart Monitoring Platform for Air Quality In Cities,space
+418,-4.47562,-2.856978,AI Assistant for Student Performance,finance
+419,-5.5421057,-2.09693,Autonomous Optimization Tool for Student Performance,fitness
+420,-1.1926688,-4.031969,Autonomous Optimization Tool for Personal Finance Habits,space
+421,-5.057486,-1.6889714,Intelligent Recommendation Engine for Student Performance,space
+422,0.73109525,14.773935,Smart Monitoring Platform for Supply Chain Logistics,finance
+423,0.60952234,-4.043491,Predictive Analytics System for Energy Consumption,retail
+424,1.2696699,-4.2863255,Smart Monitoring Platform for Energy Consumption,smart_cities
+425,-3.851944,0.42904118,AI Assistant for Fitness Activity Tracking,fitness
+426,-0.5320617,-1.5514336,Intelligent Recommendation Engine for Personal Finance Habits,environment
+427,-4.8282514,-2.2379844,Predictive Analytics System for Student Performance,healthcare
+428,15.030607,6.043501,AI Assistant for Air Quality In Cities,productivity
+429,-1.2432519,-4.2123733,AI Assistant for Personal Finance Habits,fitness
+430,-4.3819294,0.4122003,Autonomous Optimization Tool for Fitness Activity Tracking,fitness
+431,2.2738664,14.573777,Autonomous Optimization Tool for Supply Chain Logistics,education
+432,1.4347725,-3.7351878,Predictive Analytics System for Energy Consumption,productivity
+433,10.814585,-7.7599144,Intelligent Recommendation Engine for Urban Traffic Flow,agriculture
+434,2.9141917,14.921285,AI Assistant for Supply Chain Logistics,transport
+435,11.134106,-6.788155,Autonomous Optimization Tool for Urban Traffic Flow,energy
+436,10.772451,-7.7134733,Intelligent Recommendation Engine for Urban Traffic Flow,productivity
+437,11.256551,-6.8072443,Autonomous Optimization Tool for Urban Traffic Flow,smart_cities
+438,1.1464565,-0.6090717,Smart Monitoring Platform for Mental Wellness Patterns,agriculture
+439,15.478032,6.8160563,Smart Monitoring Platform for Air Quality In Cities,cybersecurity
+440,2.765337,13.672966,Intelligent Recommendation Engine for Supply Chain Logistics,mental_health
+441,1.3335738,-0.71487933,Predictive Analytics System for Mental Wellness Patterns,space
+442,-1.032038,-3.307762,Intelligent Recommendation Engine for Personal Finance Habits,social
+443,2.2581449,13.647121,Predictive Analytics System for Supply Chain Logistics,healthcare
+444,1.0085613,15.221503,Smart Monitoring Platform for Supply Chain Logistics,gaming
+445,-8.487126,11.672148,Predictive Analytics System for Waste Management,agriculture
+446,-7.5460434,12.990292,Intelligent Recommendation Engine for Waste Management,cybersecurity
+447,10.705515,-7.730113,Intelligent Recommendation Engine for Urban Traffic Flow,robotics
+448,3.4771307,-2.0620496,Autonomous Optimization Tool for Mental Wellness Patterns,education
+449,-0.6558122,-0.05122299,AI Assistant for Student Performance,retail
+450,-1.1095241,-3.1878047,Intelligent Recommendation Engine for Personal Finance Habits,finance
+451,9.830732,-5.411201,Smart Monitoring Platform for Urban Traffic Flow,productivity
+452,0.8496802,-3.5263743,Intelligent Recommendation Engine for Energy Consumption,agriculture
+453,-7.7615485,11.568152,Smart Monitoring Platform for Waste Management,energy
+454,3.4386082,-2.098758,Autonomous Optimization Tool for Mental Wellness Patterns,retail
+455,-4.286126,0.29491046,Autonomous Optimization Tool for Fitness Activity Tracking,smart_cities
+456,8.713172,3.7038028,AI Assistant for Crop Health,finance
+457,2.4741988,14.548808,AI Assistant for Supply Chain Logistics,smart_cities
+458,2.219932,13.705961,Predictive Analytics System for Supply Chain Logistics,education
+459,-1.1887593,-4.478307,AI Assistant for Personal Finance Habits,social
+460,-7.978602,13.070355,Intelligent Recommendation Engine for Waste Management,social
+461,-4.342316,0.5929042,Autonomous Optimization Tool for Fitness Activity Tracking,social
+462,-0.5738746,-0.054344412,AI Assistant for Student Performance,productivity
+463,-6.872737,12.209738,Autonomous Optimization Tool for Waste Management,social
+464,2.726444,14.563151,Autonomous Optimization Tool for Supply Chain Logistics,education
+465,16.132683,6.075346,Predictive Analytics System for Air Quality In Cities,environment
+466,10.9768305,-7.583001,Predictive Analytics System for Urban Traffic Flow,productivity
+467,-4.4651055,-2.5590281,Autonomous Optimization Tool for Student Performance,agriculture
+468,-3.9313908,-0.6547192,Predictive Analytics System for Fitness Activity Tracking,retail
+469,2.75496,13.521897,Intelligent Recommendation Engine for Supply Chain Logistics,retail
+470,11.447452,-7.357207,Autonomous Optimization Tool for Urban Traffic Flow,mental_health
+471,9.687175,-5.2587156,Intelligent Recommendation Engine for Urban Traffic Flow,gaming
+472,-0.7922851,-0.10097596,Predictive Analytics System for Student Performance,fitness
+473,3.0467613,-1.8571063,Autonomous Optimization Tool for Mental Wellness Patterns,energy
+474,0.673288,-4.549801,Smart Monitoring Platform for Energy Consumption,robotics
+475,-8.610992,11.886171,Predictive Analytics System for Waste Management,finance
+476,-8.024547,11.479364,Smart Monitoring Platform for Waste Management,food_tech
+477,8.437602,3.0066884,Autonomous Optimization Tool for Crop Health,mental_health
+478,-4.4372134,0.608671,Autonomous Optimization Tool for Fitness Activity Tracking,fitness
+479,0.66967624,-4.549087,AI Assistant for Energy Consumption,energy
+480,-3.7403677,0.47105366,AI Assistant for Fitness Activity Tracking,retail
+481,1.2868816,14.981531,Smart Monitoring Platform for Supply Chain Logistics,space
+482,3.574292,-2.0594683,AI Assistant for Mental Wellness Patterns,energy
+483,-0.06545423,-1.0802848,Intelligent Recommendation Engine for Energy Consumption,energy
+484,-3.8994799,-0.27906135,Predictive Analytics System for Fitness Activity Tracking,food_tech
+485,-8.15325,12.30342,AI Assistant for Waste Management,fitness
+486,0.10795,-1.1001774,AI Assistant for Energy Consumption,social
+487,1.1879164,-4.254914,Predictive Analytics System for Energy Consumption,environment
+488,-8.342642,12.4606905,AI Assistant for Waste Management,productivity
+489,11.029974,-7.5206347,Predictive Analytics System for Urban Traffic Flow,productivity
+490,-5.257047,-2.1458461,Smart Monitoring Platform for Student Performance,social
+491,-1.2211975,-3.7023447,Predictive Analytics System for Personal Finance Habits,transport
+492,2.1123185,13.698317,Predictive Analytics System for Supply Chain Logistics,fitness
+493,3.0043216,-0.86120147,Intelligent Recommendation Engine for Mental Wellness Patterns,environment
+494,15.330463,6.4650955,Smart Monitoring Platform for Air Quality In Cities,agriculture
+495,-4.596783,-2.4438822,Predictive Analytics System for Student Performance,retail
+496,8.120906,3.106928,Autonomous Optimization Tool for Crop Health,food_tech
+497,-4.1138787,-2.6527424,Smart Monitoring Platform for Student Performance,productivity
+498,-0.9626494,-1.7716261,Autonomous Optimization Tool for Personal Finance Habits,robotics
+499,-5.264351,-1.8919874,Intelligent Recommendation Engine for Student Performance,finance
+500,-1.2057867,-4.5212855,AI Assistant for Personal Finance Habits,environment
+501,-0.97564346,-3.3536606,Intelligent Recommendation Engine for Personal Finance Habits,robotics
+502,0.14556527,-1.0480351,AI Assistant for Energy Consumption,environment
+503,-0.54467195,-1.5597258,Intelligent Recommendation Engine for Personal Finance Habits,finance
+504,2.1166697,15.153012,Autonomous Optimization Tool for Supply Chain Logistics,cybersecurity
+505,11.251682,-7.660266,Intelligent Recommendation Engine for Urban Traffic Flow,mental_health
+506,1.5098122,-3.9839816,Smart Monitoring Platform for Energy Consumption,space
+507,1.2714207,-3.6438255,Autonomous Optimization Tool for Energy Consumption,cybersecurity
+508,-3.5648472,0.6891328,Smart Monitoring Platform for Fitness Activity Tracking,finance
+509,-0.27284652,-4.417901,Autonomous Optimization Tool for Energy Consumption,finance
+510,1.0235158,15.079088,Smart Monitoring Platform for Supply Chain Logistics,social
+511,-1.3306378,-3.5502126,Predictive Analytics System for Personal Finance Habits,gaming
+512,-0.90014267,-4.705623,AI Assistant for Personal Finance Habits,mental_health
+513,1.2371541,-0.6525302,AI Assistant for Mental Wellness Patterns,environment
+514,-0.20821063,-0.80628717,Predictive Analytics System for Energy Consumption,cybersecurity
+515,0.6690942,-4.403956,Autonomous Optimization Tool for Energy Consumption,environment
+516,3.0629785,-0.9644785,Intelligent Recommendation Engine for Mental Wellness Patterns,agriculture
+517,3.7622335,-1.8798337,AI Assistant for Mental Wellness Patterns,transport
+518,10.983776,-7.297771,AI Assistant for Urban Traffic Flow,food_tech
+519,-4.2739754,-0.3190013,Intelligent Recommendation Engine for Fitness Activity Tracking,transport
+520,2.9604797,14.710545,AI Assistant for Supply Chain Logistics,transport
+521,-8.186008,13.043641,Autonomous Optimization Tool for Waste Management,food_tech
+522,8.643264,3.5102205,AI Assistant for Crop Health,cybersecurity
+523,1.2109572,-0.62075764,Smart Monitoring Platform for Mental Wellness Patterns,gaming
+524,-1.116308,-3.1312997,Intelligent Recommendation Engine for Personal Finance Habits,cybersecurity
+525,0.9913036,-3.538818,Intelligent Recommendation Engine for Energy Consumption,cybersecurity
+526,9.1236925,2.2578135,Intelligent Recommendation Engine for Crop Health,smart_cities
+527,-4.0046153,-0.27399498,Predictive Analytics System for Fitness Activity Tracking,smart_cities
+528,1.3348417,-4.286867,Smart Monitoring Platform for Energy Consumption,environment
+529,0.6874946,-3.3826678,Intelligent Recommendation Engine for Energy Consumption,space
+530,2.1595523,13.84934,Predictive Analytics System for Supply Chain Logistics,fitness
+531,-8.200309,12.320593,AI Assistant for Waste Management,smart_cities
+532,16.161839,4.957791,Intelligent Recommendation Engine for Air Quality In Cities,gaming
+533,1.2253932,-0.64677703,AI Assistant for Mental Wellness Patterns,food_tech
+534,1.274666,14.939043,Smart Monitoring Platform for Supply Chain Logistics,mental_health
+535,-4.296431,-0.25938413,Intelligent Recommendation Engine for Fitness Activity Tracking,productivity
+536,10.848843,-7.5359187,Predictive Analytics System for Urban Traffic Flow,smart_cities
+537,-1.6099207,-0.22099595,Autonomous Optimization Tool for Fitness Activity Tracking,space
+538,15.410139,4.0569773,Autonomous Optimization Tool for Air Quality In Cities,food_tech
+539,2.658091,-2.1516743,Smart Monitoring Platform for Mental Wellness Patterns,transport
+540,-0.71310765,0.08917342,Intelligent Recommendation Engine for Student Performance,social
+541,8.227956,2.57009,Smart Monitoring Platform for Crop Health,finance
+542,-4.479014,-0.14756359,Intelligent Recommendation Engine for Fitness Activity Tracking,education
+543,-8.211217,12.656982,AI Assistant for Waste Management,food_tech
+544,-3.9012928,0.38285276,AI Assistant for Fitness Activity Tracking,environment
+545,-4.1685314,-2.4696047,AI Assistant for Student Performance,food_tech
+546,10.443366,-7.362171,AI Assistant for Urban Traffic Flow,gaming
+547,9.681284,0.89512026,Predictive Analytics System for Crop Health,smart_cities
+548,1.0011305,15.141743,Smart Monitoring Platform for Supply Chain Logistics,transport
+549,15.44643,6.821216,Smart Monitoring Platform for Air Quality In Cities,retail
+550,1.4940468,-3.831698,Smart Monitoring Platform for Energy Consumption,food_tech
+551,2.9886017,13.817363,Intelligent Recommendation Engine for Supply Chain Logistics,education
+552,15.331265,6.1303215,Autonomous Optimization Tool for Air Quality In Cities,smart_cities
+553,0.60614455,-4.026579,Predictive Analytics System for Energy Consumption,retail
+554,-4.108738,-2.5119388,Smart Monitoring Platform for Student Performance,food_tech
+555,2.8014858,-1.5969247,Predictive Analytics System for Mental Wellness Patterns,mental_health
+556,8.906968,2.1786878,Predictive Analytics System for Crop Health,finance
+557,1.7997987,-3.8114336,Smart Monitoring Platform for Energy Consumption,mental_health
+558,2.1455557,13.740269,Predictive Analytics System for Supply Chain Logistics,mental_health
+559,8.897456,2.1631835,Predictive Analytics System for Crop Health,cybersecurity
+560,-3.801893,0.54479617,AI Assistant for Fitness Activity Tracking,healthcare
+561,1.2732276,-4.3034077,Smart Monitoring Platform for Energy Consumption,gaming
+562,-4.5966067,-1.8707255,Autonomous Optimization Tool for Student Performance,environment
+563,-4.5190496,-0.02382337,Intelligent Recommendation Engine for Fitness Activity Tracking,agriculture
+564,-4.118731,1.0058283,Smart Monitoring Platform for Fitness Activity Tracking,food_tech
+565,-0.5017564,-1.5369444,Predictive Analytics System for Personal Finance Habits,smart_cities
+566,1.1690739,-4.0962243,Smart Monitoring Platform for Energy Consumption,agriculture
+567,3.0672886,-0.9406972,Intelligent Recommendation Engine for Mental Wellness Patterns,agriculture
+568,-0.99734384,-1.6929414,AI Assistant for Personal Finance Habits,food_tech
+569,11.301883,-6.846174,Autonomous Optimization Tool for Urban Traffic Flow,retail
+570,8.627785,3.6026716,AI Assistant for Crop Health,transport
+571,-4.9579964,-1.7789407,Intelligent Recommendation Engine for Student Performance,environment
+572,-1.0259708,-1.7533569,AI Assistant for Personal Finance Habits,robotics
+573,-3.7433186,0.18103239,AI Assistant for Fitness Activity Tracking,retail
+574,2.733855,-1.498943,Predictive Analytics System for Mental Wellness Patterns,education
+575,-7.8827095,13.114533,Intelligent Recommendation Engine for Waste Management,energy
+576,-3.9608757,0.8903871,Smart Monitoring Platform for Fitness Activity Tracking,transport
+577,-6.8863297,12.0369005,AI Assistant for Waste Management,finance
+578,2.9638062,14.70705,AI Assistant for Supply Chain Logistics,mental_health
+579,-3.5020201,0.41316384,AI Assistant for Fitness Activity Tracking,finance
+580,16.150818,4.821754,Intelligent Recommendation Engine for Air Quality In Cities,fitness
+581,-4.094176,-2.5294807,Smart Monitoring Platform for Student Performance,transport
+582,0.7229082,14.77531,Smart Monitoring Platform for Supply Chain Logistics,environment
+583,-8.414469,11.813906,Predictive Analytics System for Waste Management,smart_cities
+584,10.843492,-6.769318,Smart Monitoring Platform for Urban Traffic Flow,agriculture
+585,8.672301,3.5085652,AI Assistant for Crop Health,healthcare
+586,14.978609,6.075348,AI Assistant for Air Quality In Cities,space
+587,-5.562113,-2.1574924,AI Assistant for Student Performance,space
+588,10.337299,-7.50247,Predictive Analytics System for Urban Traffic Flow,smart_cities
+589,2.7601576,-1.5325831,Predictive Analytics System for Mental Wellness Patterns,cybersecurity
+590,-4.546884,0.044107866,Intelligent Recommendation Engine for Fitness Activity Tracking,gaming
+591,-7.9665103,11.43304,Smart Monitoring Platform for Waste Management,healthcare
+592,-7.58544,13.011332,Intelligent Recommendation Engine for Waste Management,finance
+593,10.995884,-7.6453605,Predictive Analytics System for Urban Traffic Flow,agriculture
+594,16.17892,6.0174775,Predictive Analytics System for Air Quality In Cities,retail
+595,1.101102,-0.56864554,Smart Monitoring Platform for Mental Wellness Patterns,education
+596,8.230064,2.5267599,Smart Monitoring Platform for Crop Health,food_tech
+597,-8.865127,11.848945,Predictive Analytics System for Waste Management,finance
+598,-4.728613,-2.2120209,Predictive Analytics System for Student Performance,robotics
+599,-0.7814685,0.12004485,Autonomous Optimization Tool for Student Performance,fitness
+600,-1.1520095,-4.0342455,Autonomous Optimization Tool for Personal Finance Habits,social
+601,-6.934892,12.045043,AI Assistant for Waste Management,healthcare
+602,1.5451001,-3.7575607,Autonomous Optimization Tool for Energy Consumption,social
+603,2.6920295,-2.1939073,Smart Monitoring Platform for Mental Wellness Patterns,fitness
+604,-1.0198764,-4.7087827,AI Assistant for Personal Finance Habits,cybersecurity
+605,-1.6811767,-4.2932577,Smart Monitoring Platform for Personal Finance Habits,food_tech
+606,9.685958,0.85450494,Predictive Analytics System for Crop Health,space
+607,16.059967,6.0687943,Predictive Analytics System for Air Quality In Cities,agriculture
+608,1.1708785,15.052641,Smart Monitoring Platform for Supply Chain Logistics,agriculture
+609,2.8265972,-1.6384064,Predictive Analytics System for Mental Wellness Patterns,mental_health
+610,-7.6495743,13.051476,Intelligent Recommendation Engine for Waste Management,finance
+611,-0.7073271,0.13028623,Intelligent Recommendation Engine for Student Performance,environment
+612,-5.230427,-2.166715,Smart Monitoring Platform for Student Performance,retail
+613,-4.1440563,0.72644776,Smart Monitoring Platform for Fitness Activity Tracking,cybersecurity
+614,-8.261729,12.879704,AI Assistant for Waste Management,agriculture
+615,3.6120257,-2.0206869,AI Assistant for Mental Wellness Patterns,social
+616,2.851499,14.866827,AI Assistant for Supply Chain Logistics,food_tech
+617,-5.5606046,-2.1984432,AI Assistant for Student Performance,education
+618,10.382607,-7.0460296,Smart Monitoring Platform for Urban Traffic Flow,food_tech
+619,2.6641192,-2.1885402,Smart Monitoring Platform for Mental Wellness Patterns,transport
+620,0.95531267,15.075383,Smart Monitoring Platform for Supply Chain Logistics,transport
+621,-1.0627991,-3.9036603,Autonomous Optimization Tool for Personal Finance Habits,transport
+622,11.210518,-6.733515,Autonomous Optimization Tool for Urban Traffic Flow,space
+623,-1.1998845,-4.406987,AI Assistant for Personal Finance Habits,robotics
+624,15.034431,6.0438685,AI Assistant for Air Quality In Cities,food_tech
+625,2.1231165,14.794842,Autonomous Optimization Tool for Supply Chain Logistics,cybersecurity
+626,-8.252194,12.517308,AI Assistant for Waste Management,social
+627,-5.418193,-2.029258,Intelligent Recommendation Engine for Student Performance,space
+628,-0.95540684,-3.3186548,Intelligent Recommendation Engine for Personal Finance Habits,fitness
+629,2.8523936,-2.2057154,Smart Monitoring Platform for Mental Wellness Patterns,social
+630,8.188964,3.0096383,Autonomous Optimization Tool for Crop Health,robotics
+631,-4.210374,-2.6806817,Smart Monitoring Platform for Student Performance,finance
+632,3.4946096,-1.6654277,AI Assistant for Mental Wellness Patterns,retail
+633,15.586306,4.1872663,Intelligent Recommendation Engine for Air Quality In Cities,environment
+634,15.091991,6.0673246,AI Assistant for Air Quality In Cities,gaming
+635,16.268185,4.985941,Intelligent Recommendation Engine for Air Quality In Cities,space
+636,0.77347505,-4.3358774,AI Assistant for Energy Consumption,food_tech
+637,0.085512884,-1.0564151,Autonomous Optimization Tool for Energy Consumption,finance
+638,-4.277513,0.08312358,Intelligent Recommendation Engine for Fitness Activity Tracking,smart_cities
+639,0.6787055,14.716551,Smart Monitoring Platform for Supply Chain Logistics,healthcare
+640,-0.17721288,-0.81757265,Predictive Analytics System for Energy Consumption,healthcare
+641,-4.185662,-2.5660114,Smart Monitoring Platform for Student Performance,retail
+642,1.075211,15.238526,Smart Monitoring Platform for Supply Chain Logistics,agriculture
+643,10.984669,-7.030726,AI Assistant for Urban Traffic Flow,productivity
+644,9.7612295,-5.237872,Predictive Analytics System for Urban Traffic Flow,robotics
+645,-4.473081,0.8052935,Autonomous Optimization Tool for Fitness Activity Tracking,food_tech
+646,0.77891785,-4.036851,Predictive Analytics System for Energy Consumption,education
+647,0.66268015,-4.6344485,AI Assistant for Energy Consumption,robotics
+648,10.942168,-6.975047,AI Assistant for Urban Traffic Flow,finance
+649,-0.71085083,0.1087196,Intelligent Recommendation Engine for Student Performance,energy
+650,15.318327,5.8875847,Autonomous Optimization Tool for Air Quality In Cities,energy
+651,10.060671,-7.2902975,Autonomous Optimization Tool for Urban Traffic Flow,productivity
+652,9.791339,-5.4047747,AI Assistant for Urban Traffic Flow,food_tech
+653,-4.9788766,-1.6811999,Intelligent Recommendation Engine for Student Performance,fitness
+654,1.1498938,-0.6640002,Smart Monitoring Platform for Mental Wellness Patterns,fitness
+655,-3.8882928,0.07287226,Autonomous Optimization Tool for Fitness Activity Tracking,mental_health
+656,10.485044,-6.821024,Smart Monitoring Platform for Urban Traffic Flow,healthcare
+657,1.1587161,15.014792,Smart Monitoring Platform for Supply Chain Logistics,smart_cities
+658,8.657617,2.7605536,Predictive Analytics System for Crop Health,robotics
+659,9.753872,0.74790317,AI Assistant for Crop Health,environment
+660,15.49698,6.7725353,Smart Monitoring Platform for Air Quality In Cities,space
+661,-0.7560051,0.08655395,Intelligent Recommendation Engine for Student Performance,finance
+662,2.5429513,14.856768,Autonomous Optimization Tool for Supply Chain Logistics,healthcare
+663,2.1657038,15.146071,Autonomous Optimization Tool for Supply Chain Logistics,cybersecurity
+664,-8.039611,12.493515,AI Assistant for Waste Management,smart_cities
+665,10.423256,-7.7197027,Intelligent Recommendation Engine for Urban Traffic Flow,finance
+666,-7.9083185,11.444492,Smart Monitoring Platform for Waste Management,environment
+667,-0.7669892,-4.510938,Autonomous Optimization Tool for Personal Finance Habits,mental_health
+668,-4.030896,-0.48859227,Predictive Analytics System for Fitness Activity Tracking,fitness
+669,2.6239161,14.689742,AI Assistant for Supply Chain Logistics,retail
+670,15.451195,3.9254723,Predictive Analytics System for Air Quality In Cities,agriculture
+671,-8.037539,11.494577,Smart Monitoring Platform for Waste Management,retail
+672,0.84580606,-3.4169166,Intelligent Recommendation Engine for Energy Consumption,space
+673,-3.9068527,0.92645544,Smart Monitoring Platform for Fitness Activity Tracking,smart_cities
+674,1.4378899,-3.7965038,AI Assistant for Energy Consumption,gaming
+675,2.7469132,-1.9955888,Smart Monitoring Platform for Mental Wellness Patterns,mental_health
+676,8.139329,3.1034927,Autonomous Optimization Tool for Crop Health,social
+677,-1.2602915,-3.6128876,Predictive Analytics System for Personal Finance Habits,food_tech
+678,-0.3289169,-1.4282649,Smart Monitoring Platform for Personal Finance Habits,productivity
+679,0.19584186,-1.1019799,Smart Monitoring Platform for Energy Consumption,gaming
+680,-3.763427,0.47476318,AI Assistant for Fitness Activity Tracking,energy
+681,0.36310008,-4.092477,Autonomous Optimization Tool for Energy Consumption,retail
+682,3.010041,-0.84823096,Intelligent Recommendation Engine for Mental Wellness Patterns,social
+683,3.6718807,-1.9556438,AI Assistant for Mental Wellness Patterns,cybersecurity
+684,1.2761873,-0.6515826,Predictive Analytics System for Mental Wellness Patterns,education
+685,9.69127,0.8468607,Autonomous Optimization Tool for Crop Health,agriculture
+686,2.1356783,15.14185,Autonomous Optimization Tool for Supply Chain Logistics,cybersecurity
+687,16.212719,6.0489345,Predictive Analytics System for Air Quality In Cities,retail
+688,8.633324,3.5680487,AI Assistant for Crop Health,agriculture
+689,10.822807,-6.6636534,Smart Monitoring Platform for Urban Traffic Flow,cybersecurity
+690,2.5051188,14.836338,Autonomous Optimization Tool for Supply Chain Logistics,robotics
+691,-1.2242608,-4.427098,AI Assistant for Personal Finance Habits,environment
+692,8.692232,2.5929043,Predictive Analytics System for Crop Health,transport
+693,-8.810171,11.882489,Predictive Analytics System for Waste Management,environment
+694,8.389159,2.5138092,Smart Monitoring Platform for Crop Health,healthcare
+695,-8.300033,12.917323,AI Assistant for Waste Management,healthcare
+696,-7.6209645,13.002224,Intelligent Recommendation Engine for Waste Management,gaming
+697,-4.167596,-2.6523967,Smart Monitoring Platform for Student Performance,finance
+698,2.8450181,-1.3702524,Predictive Analytics System for Mental Wellness Patterns,food_tech
+699,-0.7068678,-3.9794345,Autonomous Optimization Tool for Personal Finance Habits,energy
+700,3.396434,-2.0757847,Autonomous Optimization Tool for Mental Wellness Patterns,finance
+701,15.744614,6.0392094,Predictive Analytics System for Air Quality In Cities,robotics
+702,8.346535,3.3003917,Autonomous Optimization Tool for Crop Health,healthcare
+703,-4.2316227,0.38538465,Autonomous Optimization Tool for Fitness Activity Tracking,mental_health
+704,9.035525,2.5202537,Smart Monitoring Platform for Crop Health,fitness
+705,-0.79775536,0.13783911,Intelligent Recommendation Engine for Student Performance,fitness
+706,1.6431736,-3.597378,Predictive Analytics System for Energy Consumption,mental_health
+707,15.5213785,6.6788125,Smart Monitoring Platform for Air Quality In Cities,transport
+708,3.046411,-0.8312408,Intelligent Recommendation Engine for Mental Wellness Patterns,environment
+709,8.1255665,2.6028464,Smart Monitoring Platform for Crop Health,robotics
+710,-1.7683159,-4.2483554,Smart Monitoring Platform for Personal Finance Habits,environment
+711,-4.064083,-0.20827919,Intelligent Recommendation Engine for Fitness Activity Tracking,finance
+712,-6.943236,12.318556,Intelligent Recommendation Engine for Waste Management,environment
+713,8.788582,3.2034776,AI Assistant for Crop Health,energy
+714,0.98365676,15.064927,Smart Monitoring Platform for Supply Chain Logistics,social
+715,8.907185,2.5841017,Predictive Analytics System for Crop Health,fitness
+716,15.336691,4.0427403,Autonomous Optimization Tool for Air Quality In Cities,cybersecurity
+717,0.7932045,-3.530025,Intelligent Recommendation Engine for Energy Consumption,education
+718,-4.7312922,-2.3523736,Autonomous Optimization Tool for Student Performance,retail
+719,15.405484,6.4356046,Smart Monitoring Platform for Air Quality In Cities,gaming
+720,3.30516,-2.1254637,Smart Monitoring Platform for Mental Wellness Patterns,cybersecurity
+721,-1.6276948,-0.20493098,Intelligent Recommendation Engine for Fitness Activity Tracking,fitness
+722,-4.7620473,-2.397113,Predictive Analytics System for Student Performance,finance
+723,-1.1972109,-4.5808306,AI Assistant for Personal Finance Habits,transport
+724,-7.9303503,11.431411,Smart Monitoring Platform for Waste Management,cybersecurity
+725,-4.085961,-2.5521474,Smart Monitoring Platform for Student Performance,agriculture
+726,-0.81390435,-3.8732362,Autonomous Optimization Tool for Personal Finance Habits,robotics
+727,0.811051,-3.4302263,Intelligent Recommendation Engine for Energy Consumption,energy
+728,-8.655008,11.818527,Predictive Analytics System for Waste Management,environment
+729,3.000351,-0.851214,Intelligent Recommendation Engine for Mental Wellness Patterns,education
+730,-4.150443,-2.451172,AI Assistant for Student Performance,smart_cities
+731,-8.188712,13.019251,AI Assistant for Waste Management,space
+732,9.714832,0.7821588,AI Assistant for Crop Health,mental_health
+733,1.6295981,-4.0513763,Smart Monitoring Platform for Energy Consumption,mental_health
+734,-8.534547,12.068885,Predictive Analytics System for Waste Management,cybersecurity
+735,-1.1416506,-3.5460606,Predictive Analytics System for Personal Finance Habits,robotics
+736,-3.9913695,0.9442005,Smart Monitoring Platform for Fitness Activity Tracking,social
+737,2.6925275,-1.6539961,Predictive Analytics System for Mental Wellness Patterns,environment
+738,-4.426727,0.6828242,Autonomous Optimization Tool for Fitness Activity Tracking,productivity
+739,3.0129488,13.882176,Intelligent Recommendation Engine for Supply Chain Logistics,finance
+740,-3.8894813,0.5524894,AI Assistant for Fitness Activity Tracking,mental_health
+741,-4.981934,-1.6803076,Intelligent Recommendation Engine for Student Performance,fitness
+742,-4.337301,0.637115,Autonomous Optimization Tool for Fitness Activity Tracking,fitness
+743,10.812775,-7.751097,Intelligent Recommendation Engine for Urban Traffic Flow,agriculture
+744,8.191386,3.0860593,Autonomous Optimization Tool for Crop Health,energy
+745,-7.5804133,12.947556,Intelligent Recommendation Engine for Waste Management,robotics
+746,-0.23991646,-0.7701828,Predictive Analytics System for Energy Consumption,robotics
+747,3.60238,-1.8681495,AI Assistant for Mental Wellness Patterns,robotics
+748,3.7410526,-1.8866307,AI Assistant for Mental Wellness Patterns,cybersecurity
+749,11.0708685,-7.102036,AI Assistant for Urban Traffic Flow,healthcare
+750,10.851805,-6.6986084,Smart Monitoring Platform for Urban Traffic Flow,finance
+751,-0.16807634,-0.82497084,Predictive Analytics System for Energy Consumption,healthcare
+752,-0.29598236,-0.18955404,Smart Monitoring Platform for Student Performance,energy
+753,8.165646,2.5425172,Smart Monitoring Platform for Crop Health,robotics
+754,8.665024,3.7025542,AI Assistant for Crop Health,transport
+755,8.724414,3.4102287,AI Assistant for Crop Health,productivity
+756,9.326932,2.3339,Intelligent Recommendation Engine for Crop Health,cybersecurity
+757,-8.376162,12.390772,Autonomous Optimization Tool for Waste Management,education
+758,16.209776,4.87649,Intelligent Recommendation Engine for Air Quality In Cities,productivity
+759,-3.7214582,0.121316865,AI Assistant for Fitness Activity Tracking,transport
+760,9.256509,2.5477421,Intelligent Recommendation Engine for Crop Health,mental_health
+761,-4.3874345,-0.11912507,Intelligent Recommendation Engine for Fitness Activity Tracking,social
+762,9.706352,-5.2488327,Predictive Analytics System for Urban Traffic Flow,cybersecurity
+763,-4.526544,-2.2271166,Predictive Analytics System for Student Performance,retail
+764,8.850693,3.1964343,AI Assistant for Crop Health,education
+765,-8.618757,11.85276,Predictive Analytics System for Waste Management,finance
+766,-1.2306517,-4.2778125,AI Assistant for Personal Finance Habits,productivity
+767,1.0566574,-4.4919786,Autonomous Optimization Tool for Energy Consumption,transport
+768,16.1232,6.07096,Predictive Analytics System for Air Quality In Cities,productivity
+769,8.349239,2.532217,Smart Monitoring Platform for Crop Health,environment
+770,8.759856,3.4911087,AI Assistant for Crop Health,environment
+771,8.64176,3.5006137,AI Assistant for Crop Health,space
+772,-7.6877365,13.045351,Intelligent Recommendation Engine for Waste Management,food_tech
+773,15.2975645,5.8643675,Autonomous Optimization Tool for Air Quality In Cities,healthcare
+774,1.268605,-0.6106928,Autonomous Optimization Tool for Mental Wellness Patterns,gaming
+775,-4.102795,-2.5777056,Smart Monitoring Platform for Student Performance,agriculture
+776,10.08495,-7.3539233,Autonomous Optimization Tool for Urban Traffic Flow,transport
+777,-0.6233103,0.009912105,Autonomous Optimization Tool for Student Performance,gaming
+778,3.1304357,-2.1499026,Autonomous Optimization Tool for Mental Wellness Patterns,healthcare
+779,2.964812,15.061816,AI Assistant for Supply Chain Logistics,productivity
+780,3.0406168,-0.8729752,Intelligent Recommendation Engine for Mental Wellness Patterns,social
+781,11.023779,-7.032516,AI Assistant for Urban Traffic Flow,healthcare
+782,15.240224,3.7674758,Smart Monitoring Platform for Air Quality In Cities,gaming
+783,-8.845256,11.8755245,Predictive Analytics System for Waste Management,fitness
+784,-3.8041265,1.053388,Smart Monitoring Platform for Energy Consumption,fitness
+785,15.367439,4.055521,AI Assistant for Air Quality In Cities,social
+786,1.258181,14.921498,Smart Monitoring Platform for Supply Chain Logistics,robotics
+787,10.891996,-6.661806,Smart Monitoring Platform for Urban Traffic Flow,gaming
+788,2.2214732,13.6826725,Predictive Analytics System for Supply Chain Logistics,social
+789,1.0615687,-3.6790423,Autonomous Optimization Tool for Energy Consumption,social
+790,8.325559,3.1646717,Autonomous Optimization Tool for Crop Health,robotics
+791,10.747332,-7.720318,Intelligent Recommendation Engine for Urban Traffic Flow,education
+792,0.95210665,15.087354,Smart Monitoring Platform for Supply Chain Logistics,fitness
+793,-0.17203583,-0.82275754,Predictive Analytics System for Energy Consumption,mental_health
+794,2.9532337,13.769039,Intelligent Recommendation Engine for Supply Chain Logistics,gaming
+795,9.366911,2.3977416,Intelligent Recommendation Engine for Crop Health,productivity
+796,-5.5120487,-2.148141,AI Assistant for Student Performance,transport
+797,15.280738,3.8229196,Smart Monitoring Platform for Air Quality In Cities,cybersecurity
+798,-7.625063,12.982207,Intelligent Recommendation Engine for Waste Management,productivity
+799,8.709735,3.503302,AI Assistant for Crop Health,productivity
+800,-4.306178,0.45069268,Autonomous Optimization Tool for Fitness Activity Tracking,social
+801,15.271493,3.806541,Smart Monitoring Platform for Air Quality In Cities,fitness
+802,8.937326,2.138663,Predictive Analytics System for Crop Health,food_tech
+803,2.754772,13.504515,Intelligent Recommendation Engine for Supply Chain Logistics,retail
+804,-8.612858,11.737413,Predictive Analytics System for Waste Management,retail
+805,-0.83639055,-3.8932445,Autonomous Optimization Tool for Personal Finance Habits,productivity
+806,-8.442242,11.656947,Predictive Analytics System for Waste Management,finance
+807,8.837537,2.6017182,Predictive Analytics System for Crop Health,finance
+808,2.711181,13.415019,Intelligent Recommendation Engine for Supply Chain Logistics,agriculture
+809,-3.976223,-0.4143473,Predictive Analytics System for Fitness Activity Tracking,transport
+810,-3.4934635,0.40476707,AI Assistant for Fitness Activity Tracking,finance
+811,-3.6386583,0.29550692,AI Assistant for Fitness Activity Tracking,transport
+812,1.1947986,15.090094,Smart Monitoring Platform for Supply Chain Logistics,finance
+813,2.767791,13.695207,Intelligent Recommendation Engine for Supply Chain Logistics,energy
+814,-4.516139,0.83196735,Autonomous Optimization Tool for Fitness Activity Tracking,agriculture
+815,9.277727,2.4967895,Intelligent Recommendation Engine for Crop Health,energy
+816,2.943412,14.691152,AI Assistant for Supply Chain Logistics,social
+817,3.047519,14.705205,AI Assistant for Supply Chain Logistics,space
+818,11.253958,-6.7888227,Autonomous Optimization Tool for Urban Traffic Flow,smart_cities
+819,2.6980822,-1.5577153,Predictive Analytics System for Mental Wellness Patterns,fitness
+820,0.9976023,-4.598953,AI Assistant for Energy Consumption,gaming
+821,15.531007,6.8060355,Smart Monitoring Platform for Air Quality In Cities,environment
+822,2.87188,14.373784,Autonomous Optimization Tool for Supply Chain Logistics,gaming
+823,-8.173526,12.582674,AI Assistant for Waste Management,environment
+824,8.161162,3.0787451,Autonomous Optimization Tool for Crop Health,fitness
+825,-3.8246121,-0.361281,Predictive Analytics System for Fitness Activity Tracking,transport
+826,3.605798,-2.004346,AI Assistant for Mental Wellness Patterns,finance
+827,9.705362,0.8125982,AI Assistant for Crop Health,productivity
+828,1.186965,-4.4042196,Autonomous Optimization Tool for Energy Consumption,energy
+829,10.701121,-7.6869855,Intelligent Recommendation Engine for Urban Traffic Flow,environment
+830,-0.59533584,-1.673568,Intelligent Recommendation Engine for Personal Finance Habits,healthcare
+831,-3.6954093,-0.38918024,Predictive Analytics System for Fitness Activity Tracking,finance
+832,2.8347259,13.591707,Intelligent Recommendation Engine for Supply Chain Logistics,productivity
+833,-4.0108485,0.8596667,Smart Monitoring Platform for Fitness Activity Tracking,cybersecurity
+834,1.5587418,-3.856754,Smart Monitoring Platform for Energy Consumption,social
+835,15.285915,3.8340647,Smart Monitoring Platform for Air Quality In Cities,cybersecurity
+836,1.5015037,-3.8380694,AI Assistant for Energy Consumption,agriculture
+837,15.403865,4.074452,Autonomous Optimization Tool for Air Quality In Cities,transport
+838,-4.5480227,0.026906058,Predictive Analytics System for Fitness Activity Tracking,gaming
+839,-8.054139,11.778022,Smart Monitoring Platform for Waste Management,fitness
+840,2.917428,13.699232,Intelligent Recommendation Engine for Supply Chain Logistics,transport
+841,-6.8924766,12.1896515,Autonomous Optimization Tool for Waste Management,finance
+842,8.697675,2.6030977,Predictive Analytics System for Crop Health,smart_cities
+843,11.030144,-6.959749,AI Assistant for Urban Traffic Flow,robotics
+844,0.88545054,-3.521005,Intelligent Recommendation Engine for Energy Consumption,social
+845,-1.8249217,-4.1577272,Smart Monitoring Platform for Personal Finance Habits,environment
+846,-6.9246416,12.004152,AI Assistant for Waste Management,healthcare
+847,-3.7776132,0.11029387,Autonomous Optimization Tool for Fitness Activity Tracking,environment
+848,15.048649,6.088849,AI Assistant for Air Quality In Cities,finance
+849,2.9574144,15.014127,AI Assistant for Supply Chain Logistics,transport
+850,-1.234125,-4.5400944,AI Assistant for Personal Finance Habits,cybersecurity
+851,-0.51163805,-1.5094494,Predictive Analytics System for Personal Finance Habits,retail
+852,8.423158,2.664247,Autonomous Optimization Tool for Crop Health,education
+853,-4.2708445,-0.24169959,Intelligent Recommendation Engine for Fitness Activity Tracking,healthcare
+854,-4.9463897,-1.6583178,Intelligent Recommendation Engine for Student Performance,fitness
+855,-3.7343242,-0.09462026,Predictive Analytics System for Fitness Activity Tracking,agriculture
+856,-7.045803,11.8484125,Smart Monitoring Platform for Waste Management,cybersecurity
+857,0.9527632,-4.5848083,AI Assistant for Energy Consumption,education
+858,16.203913,4.876609,Intelligent Recommendation Engine for Air Quality In Cities,education
+859,3.0022662,15.023416,AI Assistant for Supply Chain Logistics,education
+860,-1.8300754,-4.1647477,Smart Monitoring Platform for Personal Finance Habits,retail
+861,9.750526,-5.280738,Predictive Analytics System for Urban Traffic Flow,productivity
+862,16.328844,5.7749667,Predictive Analytics System for Air Quality In Cities,gaming
+863,9.759575,-5.298748,Predictive Analytics System for Urban Traffic Flow,mental_health
+864,8.717738,3.5429401,AI Assistant for Crop Health,space
+865,15.618073,5.9939375,Autonomous Optimization Tool for Air Quality In Cities,productivity
+866,9.71008,-5.2905736,AI Assistant for Urban Traffic Flow,food_tech
+867,8.395786,2.476687,Smart Monitoring Platform for Crop Health,fitness
+868,14.938535,6.0855007,AI Assistant for Air Quality In Cities,fitness
+869,-5.1136355,-1.6647189,Intelligent Recommendation Engine for Student Performance,finance
+870,1.5599408,-3.9599829,Smart Monitoring Platform for Energy Consumption,environment
+871,-4.1539946,0.15314928,Intelligent Recommendation Engine for Fitness Activity Tracking,cybersecurity
+872,-8.811061,11.890837,Predictive Analytics System for Waste Management,robotics
+873,-0.098931774,-1.115594,Intelligent Recommendation Engine for Energy Consumption,productivity
+874,-6.9341407,12.274608,Intelligent Recommendation Engine for Waste Management,robotics
+875,-1.1267699,-3.9212613,Autonomous Optimization Tool for Personal Finance Habits,gaming
+876,15.582965,5.848371,Autonomous Optimization Tool for Air Quality In Cities,retail
+877,3.6645463,-1.9062781,AI Assistant for Mental Wellness Patterns,cybersecurity
+878,3.4941716,-2.0818973,Autonomous Optimization Tool for Mental Wellness Patterns,education
+879,-3.6154714,-0.270813,Predictive Analytics System for Fitness Activity Tracking,finance
+880,2.1043894,13.948953,Predictive Analytics System for Supply Chain Logistics,finance
+881,-7.8021426,11.626686,Smart Monitoring Platform for Waste Management,robotics
+882,-4.384941,-2.5291998,Smart Monitoring Platform for Student Performance,robotics
+883,-7.545391,12.927944,Intelligent Recommendation Engine for Waste Management,environment
+884,0.7981189,-4.0911965,Predictive Analytics System for Energy Consumption,agriculture
+885,2.6812098,-2.1633422,Smart Monitoring Platform for Mental Wellness Patterns,mental_health
+886,-0.24770623,-4.579065,AI Assistant for Energy Consumption,finance
+887,2.6767972,-2.0347412,Smart Monitoring Platform for Mental Wellness Patterns,gaming
+888,-4.260746,-1.9352901,Predictive Analytics System for Student Performance,energy
+889,-7.7775974,11.551096,Smart Monitoring Platform for Waste Management,environment
+890,-5.002881,-1.641035,Intelligent Recommendation Engine for Student Performance,social
+891,11.154619,-7.3250933,Predictive Analytics System for Urban Traffic Flow,fitness
+892,-3.986269,0.6001595,AI Assistant for Fitness Activity Tracking,mental_health
+893,9.702591,0.8576947,Smart Monitoring Platform for Crop Health,retail
+894,-0.88504755,-4.5511556,Autonomous Optimization Tool for Personal Finance Habits,food_tech
+895,-4.480878,-2.7664614,AI Assistant for Student Performance,finance
+896,10.311684,-6.964229,Smart Monitoring Platform for Urban Traffic Flow,environment
+897,-1.7534145,-4.2509027,Smart Monitoring Platform for Personal Finance Habits,transport
+898,15.706261,6.038097,Autonomous Optimization Tool for Air Quality In Cities,agriculture
+899,-3.9317868,0.9756302,Smart Monitoring Platform for Fitness Activity Tracking,environment
+900,0.6077551,-3.4415348,Intelligent Recommendation Engine for Energy Consumption,finance
+901,-4.663411,-2.4438224,Predictive Analytics System for Student Performance,environment
+902,2.3544395,13.746762,Predictive Analytics System for Supply Chain Logistics,social
+903,-4.4071717,-2.205068,Predictive Analytics System for Student Performance,agriculture
+904,16.211842,4.935698,Intelligent Recommendation Engine for Air Quality In Cities,environment
+905,1.1992064,-4.293706,Predictive Analytics System for Energy Consumption,robotics
+906,-0.86178017,-3.3417494,Intelligent Recommendation Engine for Personal Finance Habits,retail
+907,8.724762,3.5611598,AI Assistant for Crop Health,agriculture
+908,0.4849619,-3.520333,Intelligent Recommendation Engine for Energy Consumption,finance
+909,14.978112,6.1502614,AI Assistant for Air Quality In Cities,space
+910,2.141593,14.060683,Predictive Analytics System for Supply Chain Logistics,food_tech
+911,-3.842544,-0.8422609,Predictive Analytics System for Energy Consumption,fitness
+912,-0.7075692,0.10763831,Intelligent Recommendation Engine for Student Performance,gaming
+913,16.224535,4.869213,Intelligent Recommendation Engine for Air Quality In Cities,healthcare
+914,8.890029,2.2542078,Predictive Analytics System for Crop Health,healthcare
+915,-4.6041594,-2.7241921,AI Assistant for Student Performance,finance
+916,-1.312639,-4.1695004,Autonomous Optimization Tool for Personal Finance Habits,smart_cities
+917,-4.554593,-2.6328154,AI Assistant for Student Performance,robotics
+918,11.428202,-7.3912473,Autonomous Optimization Tool for Urban Traffic Flow,mental_health
+919,2.995641,15.0451355,AI Assistant for Supply Chain Logistics,fitness
+920,-4.3099093,0.14864899,Smart Monitoring Platform for Fitness Activity Tracking,gaming
+921,1.5091684,15.1582,Smart Monitoring Platform for Supply Chain Logistics,cybersecurity
+922,3.050364,-0.9048499,Intelligent Recommendation Engine for Mental Wellness Patterns,healthcare
+923,2.7320142,-2.0197248,Smart Monitoring Platform for Mental Wellness Patterns,gaming
+924,-4.310079,0.6081077,Autonomous Optimization Tool for Fitness Activity Tracking,mental_health
+925,0.9367533,-4.2124877,Smart Monitoring Platform for Energy Consumption,education
+926,-5.0404134,-1.6358708,Intelligent Recommendation Engine for Student Performance,cybersecurity
+927,16.116835,4.8331103,Intelligent Recommendation Engine for Air Quality In Cities,fitness
+928,-6.932771,12.30174,Intelligent Recommendation Engine for Waste Management,productivity
+929,8.652233,2.6579072,Predictive Analytics System for Crop Health,robotics
+930,-4.5667944,-2.1745512,Predictive Analytics System for Student Performance,space
+931,-0.4878978,-1.5230799,Intelligent Recommendation Engine for Personal Finance Habits,productivity
+932,2.7212298,13.608466,Intelligent Recommendation Engine for Supply Chain Logistics,smart_cities
+933,2.940469,14.732608,AI Assistant for Supply Chain Logistics,environment
+934,-0.8559816,-1.7034122,Autonomous Optimization Tool for Personal Finance Habits,food_tech
+935,1.280885,15.058977,Smart Monitoring Platform for Supply Chain Logistics,environment
+936,-8.172007,12.421769,AI Assistant for Waste Management,cybersecurity
+937,10.770728,-7.722243,Intelligent Recommendation Engine for Urban Traffic Flow,energy
+938,8.607341,3.261227,Autonomous Optimization Tool for Crop Health,energy
+939,10.077246,-7.2690177,Autonomous Optimization Tool for Urban Traffic Flow,food_tech
+940,-7.974536,11.578599,Smart Monitoring Platform for Waste Management,robotics
+941,10.538789,-7.770707,Intelligent Recommendation Engine for Urban Traffic Flow,transport
+942,1.3811631,-4.2650476,Smart Monitoring Platform for Energy Consumption,productivity
+943,-5.523428,-2.1587837,AI Assistant for Student Performance,social
+944,1.6529804,-4.107802,Smart Monitoring Platform for Energy Consumption,mental_health
+945,0.9674129,-3.9686122,Predictive Analytics System for Energy Consumption,agriculture
+946,-1.2254999,-3.4479256,Predictive Analytics System for Personal Finance Habits,food_tech
+947,9.335025,2.5254903,Intelligent Recommendation Engine for Crop Health,fitness
+948,16.148724,4.8124075,Intelligent Recommendation Engine for Air Quality In Cities,fitness
+949,-1.1022269,-3.1530693,Intelligent Recommendation Engine for Personal Finance Habits,education
+950,9.701543,0.8081852,Autonomous Optimization Tool for Crop Health,healthcare
+951,-4.162128,-2.4676807,Smart Monitoring Platform for Student Performance,food_tech
+952,0.7757873,-3.4273036,Intelligent Recommendation Engine for Energy Consumption,healthcare
+953,-0.915662,-3.8152957,Autonomous Optimization Tool for Personal Finance Habits,energy
+954,-0.41018412,-0.09375928,Smart Monitoring Platform for Student Performance,gaming
+955,0.94533956,-4.536437,AI Assistant for Energy Consumption,energy
+956,10.986934,-6.660353,Smart Monitoring Platform for Urban Traffic Flow,gaming
+957,-4.110683,-2.5201771,Smart Monitoring Platform for Student Performance,productivity
+958,15.528099,6.811751,Smart Monitoring Platform for Air Quality In Cities,smart_cities
+959,-7.9965916,12.180974,Autonomous Optimization Tool for Waste Management,smart_cities
+960,2.2263448,13.651003,Predictive Analytics System for Supply Chain Logistics,social
+961,15.497155,6.8466954,Smart Monitoring Platform for Air Quality In Cities,finance
+962,-6.993719,11.872484,Smart Monitoring Platform for Waste Management,mental_health
+963,-4.5020027,-0.105979525,Intelligent Recommendation Engine for Fitness Activity Tracking,retail
+964,8.696434,3.4948187,AI Assistant for Crop Health,robotics
+965,0.9332803,-4.6309376,AI Assistant for Energy Consumption,social
+966,-8.198006,12.438126,AI Assistant for Waste Management,fitness
+967,16.203457,4.844774,Intelligent Recommendation Engine for Air Quality In Cities,environment
+968,8.93102,2.2279847,Predictive Analytics System for Crop Health,finance
+969,-0.60952336,-0.20370613,Predictive Analytics System for Student Performance,education
+970,-6.9302034,12.287145,Intelligent Recommendation Engine for Waste Management,environment
+971,15.321007,3.9600897,AI Assistant for Air Quality In Cities,smart_cities
+972,16.197884,4.834744,Intelligent Recommendation Engine for Air Quality In Cities,smart_cities
+973,-8.505897,11.737731,Predictive Analytics System for Waste Management,energy
+974,8.752205,3.378206,AI Assistant for Crop Health,food_tech
+975,11.092337,-7.064013,AI Assistant for Urban Traffic Flow,productivity
+976,1.153849,-0.59569615,Smart Monitoring Platform for Mental Wellness Patterns,food_tech
+977,0.6309542,-4.555968,AI Assistant for Energy Consumption,robotics
+978,-7.1017246,11.820461,Smart Monitoring Platform for Waste Management,robotics
+979,1.4734035,14.971331,Smart Monitoring Platform for Supply Chain Logistics,cybersecurity
+980,-1.0212059,-1.7293657,AI Assistant for Personal Finance Habits,retail
+981,0.40762612,-4.176254,Autonomous Optimization Tool for Energy Consumption,fitness
+982,-1.6230481,-0.25673875,AI Assistant for Fitness Activity Tracking,robotics
+983,-7.9073105,11.455437,Smart Monitoring Platform for Waste Management,mental_health
+984,-4.826463,-1.969824,Intelligent Recommendation Engine for Student Performance,robotics
+985,-5.1222177,-2.2230494,Predictive Analytics System for Student Performance,smart_cities
+986,2.857269,14.856571,AI Assistant for Supply Chain Logistics,retail
+987,9.757135,-5.2408366,Predictive Analytics System for Urban Traffic Flow,finance
+988,11.285283,-6.8065815,Autonomous Optimization Tool for Urban Traffic Flow,cybersecurity
+989,9.746191,-5.2720666,Predictive Analytics System for Urban Traffic Flow,transport
+990,-7.0265,11.90793,Smart Monitoring Platform for Waste Management,productivity
+991,2.87898,14.782622,AI Assistant for Supply Chain Logistics,gaming
+992,-8.063688,12.342488,AI Assistant for Waste Management,fitness
+993,15.3958235,6.7072825,Smart Monitoring Platform for Air Quality In Cities,mental_health
+994,15.242842,6.111584,Autonomous Optimization Tool for Air Quality In Cities,healthcare
+995,-0.14708784,-1.3316697,Smart Monitoring Platform for Personal Finance Habits,mental_health
+996,-4.04454,0.9053121,Smart Monitoring Platform for Fitness Activity Tracking,cybersecurity
+997,-4.105632,-2.4882815,Smart Monitoring Platform for Student Performance,food_tech
+998,-0.4182299,-0.6885694,Predictive Analytics System for Energy Consumption,fitness
+999,9.754419,-5.3342266,Autonomous Optimization Tool for Urban Traffic Flow,cybersecurity
+1000,-3.9498017,0.87502354,Smart Monitoring Platform for Fitness Activity Tracking,education
+1001,2.1652396,13.805365,Predictive Analytics System for Supply Chain Logistics,mental_health
+1002,15.034876,6.1249747,AI Assistant for Air Quality In Cities,robotics
+1003,1.1135055,-4.20964,Autonomous Optimization Tool for Energy Consumption,smart_cities
+1004,2.1400366,13.879097,Predictive Analytics System for Supply Chain Logistics,fitness
+1005,-4.326454,1.056502,Smart Monitoring Platform for Fitness Activity Tracking,agriculture
+1006,9.585321,1.0720607,Intelligent Recommendation Engine for Crop Health,cybersecurity
+1007,-8.186431,12.419687,AI Assistant for Waste Management,environment
+1008,1.1303086,-0.58955896,Smart Monitoring Platform for Mental Wellness Patterns,education
+1009,3.113988,-1.9028903,Autonomous Optimization Tool for Mental Wellness Patterns,education
+1010,-8.587228,11.7562685,Predictive Analytics System for Waste Management,fitness
+1011,-0.8420519,-3.8870106,Autonomous Optimization Tool for Personal Finance Habits,productivity
+1012,3.1807923,-1.3163451,AI Assistant for Mental Wellness Patterns,agriculture
+1013,16.370823,5.7983737,Predictive Analytics System for Air Quality In Cities,gaming
+1014,10.96837,-7.2737465,AI Assistant for Urban Traffic Flow,productivity
+1015,11.234213,-6.7948027,Autonomous Optimization Tool for Urban Traffic Flow,gaming
+1016,-8.244465,12.447115,AI Assistant for Waste Management,education
+1017,-1.7534132,-4.1253743,Smart Monitoring Platform for Personal Finance Habits,environment
+1018,-4.1444893,-2.5886283,Smart Monitoring Platform for Student Performance,mental_health
+1019,15.456252,6.7131267,Smart Monitoring Platform for Air Quality In Cities,social
+1020,-1.0183265,-3.3240347,Intelligent Recommendation Engine for Personal Finance Habits,retail
+1021,11.293214,-7.513568,Predictive Analytics System for Urban Traffic Flow,mental_health
+1022,2.5885692,-2.2135649,Smart Monitoring Platform for Mental Wellness Patterns,energy
+1023,15.652359,6.0187654,Autonomous Optimization Tool for Air Quality In Cities,space
+1024,11.321287,-6.8952837,Autonomous Optimization Tool for Urban Traffic Flow,cybersecurity
+1025,10.249323,-7.580822,Predictive Analytics System for Urban Traffic Flow,education
+1026,2.8455117,14.5950775,Autonomous Optimization Tool for Supply Chain Logistics,smart_cities
+1027,2.3541954,14.654983,Autonomous Optimization Tool for Supply Chain Logistics,education
+1028,15.635568,5.9886627,Autonomous Optimization Tool for Air Quality In Cities,food_tech
+1029,16.305655,4.951508,Intelligent Recommendation Engine for Air Quality In Cities,education
+1030,1.1261748,15.219106,Smart Monitoring Platform for Supply Chain Logistics,transport
+1031,-4.2919974,-2.0570266,Predictive Analytics System for Student Performance,energy
+1032,-8.259086,12.49384,AI Assistant for Waste Management,education
+1033,2.9340851,14.883017,AI Assistant for Supply Chain Logistics,environment
+1034,9.6857395,0.88698596,Predictive Analytics System for Crop Health,gaming
+1035,-4.990711,-1.8021165,Intelligent Recommendation Engine for Student Performance,smart_cities
+1036,2.7654073,-1.4905674,Predictive Analytics System for Mental Wellness Patterns,mental_health
+1037,9.728985,0.7717066,AI Assistant for Crop Health,transport
+1038,15.290837,3.826798,Smart Monitoring Platform for Air Quality In Cities,food_tech
+1039,-7.266607,11.995802,Predictive Analytics System for Waste Management,smart_cities
+1040,10.996063,-6.749822,Autonomous Optimization Tool for Urban Traffic Flow,finance
+1041,2.6268647,-2.004215,Smart Monitoring Platform for Mental Wellness Patterns,fitness
+1042,-8.8262005,11.752041,Predictive Analytics System for Waste Management,retail
+1043,1.0032089,-4.0603604,Smart Monitoring Platform for Energy Consumption,education
+1044,-3.7822685,-0.38866097,Predictive Analytics System for Fitness Activity Tracking,transport
+1045,8.655123,2.6568882,Predictive Analytics System for Crop Health,space
+1046,-4.5546784,-2.2377253,Predictive Analytics System for Student Performance,agriculture
+1047,-3.9899418,0.29522854,AI Assistant for Fitness Activity Tracking,smart_cities
+1048,10.721563,-7.7734146,Intelligent Recommendation Engine for Urban Traffic Flow,transport
+1049,2.7956812,-2.0332375,Smart Monitoring Platform for Mental Wellness Patterns,robotics
+1050,8.805736,2.6993573,Predictive Analytics System for Crop Health,mental_health
+1051,-1.5395675,-0.2834976,Predictive Analytics System for Fitness Activity Tracking,social
+1052,-4.655856,-2.6584187,AI Assistant for Student Performance,space
+1053,16.341284,4.899352,Intelligent Recommendation Engine for Air Quality In Cities,education
+1054,-0.41855875,-1.3542004,Predictive Analytics System for Personal Finance Habits,energy
+1055,0.7699698,-3.8430612,Predictive Analytics System for Energy Consumption,healthcare
+1056,-4.3501315,-1.9957726,Autonomous Optimization Tool for Student Performance,energy
+1057,-4.3103204,1.0513928,Smart Monitoring Platform for Fitness Activity Tracking,agriculture
+1058,-1.2535634,-3.4232142,Predictive Analytics System for Personal Finance Habits,mental_health
+1059,-0.33307406,-1.4364185,Smart Monitoring Platform for Personal Finance Habits,environment
+1060,2.98722,14.198782,AI Assistant for Supply Chain Logistics,gaming
+1061,16.260265,5.9501243,Predictive Analytics System for Air Quality In Cities,social
+1062,0.13456333,-1.0892311,Autonomous Optimization Tool for Energy Consumption,social
+1063,-0.6904186,-3.963967,Autonomous Optimization Tool for Personal Finance Habits,energy
+1064,-4.5561867,0.3661962,Autonomous Optimization Tool for Fitness Activity Tracking,gaming
+1065,8.219318,2.542444,Smart Monitoring Platform for Crop Health,healthcare
+1066,8.306233,3.1465418,Autonomous Optimization Tool for Crop Health,space
+1067,-7.9899087,11.362997,Smart Monitoring Platform for Waste Management,healthcare
+1068,-8.180829,11.782058,Autonomous Optimization Tool for Waste Management,robotics
+1069,16.152357,4.8488173,Intelligent Recommendation Engine for Air Quality In Cities,transport
+1070,0.79626745,-3.5515382,Intelligent Recommendation Engine for Energy Consumption,education
+1071,-3.395222,0.40689328,AI Assistant for Fitness Activity Tracking,finance
+1072,2.5600615,14.807,Autonomous Optimization Tool for Supply Chain Logistics,agriculture
+1073,-7.1503024,12.081196,Predictive Analytics System for Waste Management,cybersecurity
+1074,-3.858143,0.4593736,AI Assistant for Fitness Activity Tracking,education
+1075,8.792551,3.249593,AI Assistant for Crop Health,productivity
+1076,3.0440779,-0.9270862,Intelligent Recommendation Engine for Mental Wellness Patterns,smart_cities
+1077,2.772689,14.853975,AI Assistant for Supply Chain Logistics,healthcare
+1078,-1.0503744,-1.6786695,AI Assistant for Personal Finance Habits,fitness
+1079,-8.156874,13.007492,AI Assistant for Waste Management,energy
+1080,10.36003,-7.6986003,Intelligent Recommendation Engine for Urban Traffic Flow,transport
+1081,-3.773523,0.32117054,AI Assistant for Fitness Activity Tracking,transport
+1082,8.697669,2.6215165,Predictive Analytics System for Crop Health,productivity
+1083,-1.7544653,-4.2716956,Smart Monitoring Platform for Personal Finance Habits,agriculture
+1084,-4.273557,0.07456824,Intelligent Recommendation Engine for Fitness Activity Tracking,cybersecurity
+1085,-5.016021,-1.6078682,Intelligent Recommendation Engine for Student Performance,healthcare
+1086,-5.164739,-2.201798,Smart Monitoring Platform for Student Performance,gaming
+1087,10.303098,-7.570709,Predictive Analytics System for Urban Traffic Flow,education
+1088,16.025963,6.083978,Predictive Analytics System for Air Quality In Cities,robotics
+1089,10.125791,-7.3015094,Autonomous Optimization Tool for Urban Traffic Flow,fitness
+1090,-4.436823,-1.9294466,Autonomous Optimization Tool for Student Performance,gaming
+1091,9.730657,0.8653675,Predictive Analytics System for Crop Health,gaming
+1092,-8.120424,12.216293,Autonomous Optimization Tool for Waste Management,mental_health
+1093,0.7967666,-3.4442067,Intelligent Recommendation Engine for Energy Consumption,space
+1094,-4.4138513,-1.9529105,Autonomous Optimization Tool for Student Performance,healthcare
+1095,15.296366,3.9525142,AI Assistant for Air Quality In Cities,cybersecurity
+1096,8.657424,3.7320533,AI Assistant for Crop Health,agriculture
+1097,-8.63395,11.940799,Predictive Analytics System for Waste Management,space
+1098,-8.63368,11.952357,Predictive Analytics System for Waste Management,fitness
+1099,11.214453,-6.7610626,Autonomous Optimization Tool for Urban Traffic Flow,gaming
+1100,10.980326,-7.088306,AI Assistant for Urban Traffic Flow,healthcare
+1101,-0.6908046,0.06872915,Autonomous Optimization Tool for Student Performance,food_tech
+1102,16.159893,6.060357,Predictive Analytics System for Air Quality In Cities,mental_health
+1103,10.127266,-7.3855095,Autonomous Optimization Tool for Urban Traffic Flow,education
+1104,-4.0726714,-0.19860734,Intelligent Recommendation Engine for Fitness Activity Tracking,environment
+1105,-1.0214262,-1.6576861,AI Assistant for Personal Finance Habits,healthcare
+1106,1.2479081,15.025121,Smart Monitoring Platform for Supply Chain Logistics,agriculture
+1107,-8.61863,12.042286,Predictive Analytics System for Waste Management,gaming
+1108,-8.6842985,11.797785,Predictive Analytics System for Waste Management,productivity
+1109,-5.4840064,-2.1696744,Predictive Analytics System for Student Performance,productivity
+1110,0.85773635,-3.9668603,Predictive Analytics System for Energy Consumption,cybersecurity
+1111,1.0621207,15.161999,Smart Monitoring Platform for Supply Chain Logistics,smart_cities
+1112,-4.119809,0.37508154,AI Assistant for Fitness Activity Tracking,gaming
+1113,1.2267028,-3.5927758,Intelligent Recommendation Engine for Energy Consumption,food_tech
+1114,-1.5783857,-0.22304359,Autonomous Optimization Tool for Fitness Activity Tracking,finance
+1115,9.314322,2.4480994,Intelligent Recommendation Engine for Crop Health,healthcare
+1116,-3.8894622,-0.47096115,Predictive Analytics System for Fitness Activity Tracking,transport
+1117,0.71512717,14.777336,Smart Monitoring Platform for Supply Chain Logistics,productivity
+1118,-1.2617881,-3.4570522,Predictive Analytics System for Personal Finance Habits,cybersecurity
+1119,-0.98334825,-3.2259111,Intelligent Recommendation Engine for Personal Finance Habits,food_tech
+1120,-1.2403605,-3.4990833,Predictive Analytics System for Personal Finance Habits,environment
+1121,1.2057152,-0.60841155,Autonomous Optimization Tool for Mental Wellness Patterns,productivity
+1122,11.165006,-6.688844,Autonomous Optimization Tool for Urban Traffic Flow,cybersecurity
+1123,-1.3316526,-4.169281,Autonomous Optimization Tool for Personal Finance Habits,smart_cities
+1124,3.064713,-0.91999763,Intelligent Recommendation Engine for Mental Wellness Patterns,finance
+1125,8.103783,3.059084,Autonomous Optimization Tool for Crop Health,smart_cities
+1126,8.759013,3.6583116,AI Assistant for Crop Health,space
+1127,0.8772621,-3.507935,Intelligent Recommendation Engine for Energy Consumption,healthcare
+1128,-1.6787744,-4.2882333,Smart Monitoring Platform for Personal Finance Habits,space
+1129,-1.1981059,-4.5281086,AI Assistant for Personal Finance Habits,mental_health
+1130,2.8890786,14.690528,AI Assistant for Supply Chain Logistics,education
+1131,8.8198595,3.5961368,AI Assistant for Crop Health,gaming
+1132,1.2220626,-4.261028,Smart Monitoring Platform for Energy Consumption,smart_cities
+1133,15.251517,3.771418,Smart Monitoring Platform for Air Quality In Cities,finance
+1134,8.640339,3.6698294,AI Assistant for Crop Health,transport
+1135,-4.9302697,-1.5529016,Intelligent Recommendation Engine for Student Performance,gaming
+1136,-5.3227973,-1.9744014,Intelligent Recommendation Engine for Student Performance,retail
+1137,0.8087369,-4.6628337,AI Assistant for Energy Consumption,space
+1138,2.1488502,13.811905,Predictive Analytics System for Supply Chain Logistics,cybersecurity
+1139,-0.61555725,-3.3321307,Intelligent Recommendation Engine for Personal Finance Habits,energy
+1140,11.436942,-7.383223,Autonomous Optimization Tool for Urban Traffic Flow,mental_health
+1141,9.756872,0.8570052,Smart Monitoring Platform for Crop Health,productivity
+1142,-8.253646,12.952005,AI Assistant for Waste Management,food_tech
+1143,2.6021066,14.784166,Autonomous Optimization Tool for Supply Chain Logistics,food_tech
+1144,15.531004,6.7698884,Smart Monitoring Platform for Air Quality In Cities,transport
+1145,-4.332475,-0.24852768,Intelligent Recommendation Engine for Fitness Activity Tracking,robotics
+1146,-0.7185937,-1.6608952,Autonomous Optimization Tool for Personal Finance Habits,mental_health
+1147,2.7339091,-2.090181,Smart Monitoring Platform for Mental Wellness Patterns,agriculture
+1148,2.6173906,-1.5219609,Predictive Analytics System for Mental Wellness Patterns,finance
+1149,-0.20205548,-4.4016585,Autonomous Optimization Tool for Energy Consumption,finance
+1150,-4.6614013,-2.6026223,AI Assistant for Student Performance,cybersecurity
+1151,1.1670452,-4.1368484,Smart Monitoring Platform for Energy Consumption,agriculture
+1152,10.227911,-7.6146526,Predictive Analytics System for Urban Traffic Flow,finance
+1153,2.5419211,14.834328,Autonomous Optimization Tool for Supply Chain Logistics,finance
+1154,16.325338,5.8239064,Predictive Analytics System for Air Quality In Cities,space
+1155,0.9679316,15.0670805,Smart Monitoring Platform for Supply Chain Logistics,smart_cities
+1156,2.4335175,14.763256,Autonomous Optimization Tool for Supply Chain Logistics,fitness
+1157,11.172499,-7.0742593,Autonomous Optimization Tool for Urban Traffic Flow,agriculture
+1158,-1.1643981,-4.541127,AI Assistant for Personal Finance Habits,productivity
+1159,3.011875,-2.217548,Autonomous Optimization Tool for Mental Wellness Patterns,mental_health
+1160,-1.6816299,-4.2994685,Smart Monitoring Platform for Personal Finance Habits,cybersecurity
+1161,15.591241,5.7732463,Autonomous Optimization Tool for Air Quality In Cities,social
+1162,3.7223437,-1.872139,AI Assistant for Mental Wellness Patterns,space
+1163,3.1852803,-1.8020679,Autonomous Optimization Tool for Mental Wellness Patterns,food_tech
+1164,-0.26883736,-0.17283946,Smart Monitoring Platform for Student Performance,mental_health
+1165,8.171833,2.6054387,Smart Monitoring Platform for Crop Health,robotics
+1166,-1.8152295,-4.161901,Smart Monitoring Platform for Personal Finance Habits,environment
+1167,-1.3471712,-3.6108959,Predictive Analytics System for Personal Finance Habits,gaming
+1168,15.048293,5.985063,AI Assistant for Air Quality In Cities,healthcare
+1169,-0.5128146,-1.5811949,Intelligent Recommendation Engine for Personal Finance Habits,smart_cities
+1170,2.9295044,13.638937,Intelligent Recommendation Engine for Supply Chain Logistics,transport
+1171,11.100686,-7.4395056,Predictive Analytics System for Urban Traffic Flow,robotics
+1172,16.171144,4.9132833,Intelligent Recommendation Engine for Air Quality In Cities,gaming
+1173,2.782751,14.323187,Autonomous Optimization Tool for Supply Chain Logistics,smart_cities
+1174,-8.277745,12.958099,Autonomous Optimization Tool for Waste Management,cybersecurity
+1175,-1.6044486,-0.22957069,Intelligent Recommendation Engine for Fitness Activity Tracking,space
+1176,-7.933107,11.376893,Smart Monitoring Platform for Waste Management,agriculture
+1177,8.299739,2.547117,Smart Monitoring Platform for Crop Health,food_tech
+1178,-0.96548706,-1.7032413,AI Assistant for Personal Finance Habits,space
+1179,2.3130443,15.066344,Autonomous Optimization Tool for Supply Chain Logistics,healthcare
+1180,9.775333,-5.2785735,Predictive Analytics System for Urban Traffic Flow,environment
+1181,9.712058,-5.3369155,Intelligent Recommendation Engine for Urban Traffic Flow,cybersecurity
+1182,-8.233266,12.549698,AI Assistant for Waste Management,space
+1183,-4.937556,-1.6016973,Intelligent Recommendation Engine for Student Performance,fitness
+1184,14.944999,6.0741563,AI Assistant for Air Quality In Cities,cybersecurity
+1185,1.2950512,-4.3427467,Predictive Analytics System for Energy Consumption,gaming
+1186,-8.35755,12.932445,Autonomous Optimization Tool for Waste Management,cybersecurity
+1187,-7.609366,13.004917,Intelligent Recommendation Engine for Waste Management,space
+1188,10.815335,-6.7174544,Smart Monitoring Platform for Urban Traffic Flow,robotics
+1189,2.7462497,13.475567,Intelligent Recommendation Engine for Supply Chain Logistics,robotics
+1190,0.755678,-3.5830986,Intelligent Recommendation Engine for Energy Consumption,robotics
+1191,-1.5972941,-0.24078874,Autonomous Optimization Tool for Fitness Activity Tracking,finance
+1192,2.5432909,14.885544,Autonomous Optimization Tool for Supply Chain Logistics,healthcare
+1193,9.342865,2.3058324,Intelligent Recommendation Engine for Crop Health,cybersecurity
+1194,2.0911987,13.955609,Predictive Analytics System for Supply Chain Logistics,productivity
+1195,-4.4332385,-0.1819848,Intelligent Recommendation Engine for Fitness Activity Tracking,education
+1196,11.140474,-7.410372,Predictive Analytics System for Urban Traffic Flow,environment
+1197,10.6174965,-6.998397,Smart Monitoring Platform for Urban Traffic Flow,mental_health
+1198,1.6634135,-3.7091916,AI Assistant for Energy Consumption,mental_health
+1199,2.1328986,15.17999,Autonomous Optimization Tool for Supply Chain Logistics,cybersecurity
+1200,10.732094,-7.642859,Intelligent Recommendation Engine for Urban Traffic Flow,finance

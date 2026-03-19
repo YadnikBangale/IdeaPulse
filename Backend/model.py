@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 import faiss
+import umap
+
 from sentence_transformers import SentenceTransformer
 
 
@@ -94,3 +96,29 @@ def search_similar_ideas(query_text, model, index, data, k=5):
         })
 
     return similarities, results
+
+def generate_idea_map(data, embeddings):
+
+    print("Reducing embeddings to 2D using UMAP...")
+
+    reducer = umap.UMAP(n_components=2, random_state=42)
+
+    embedding_2d = reducer.fit_transform(embeddings)
+
+    print("2D embedding shape:", embedding_2d.shape)
+
+    # create dataframe for visualization
+    map_df = pd.DataFrame({
+        "idea_id": data["id"],
+        "x": embedding_2d[:, 0],
+        "y": embedding_2d[:, 1],
+        "title": data["title"],
+        "domain": data["domain"]
+    })
+
+    # save to CSV
+    map_df.to_csv("../Dataset/idea_map_2d.csv", index=False)
+
+    print("Idea map saved as idea_map_2d.csv")
+
+    return map_df
