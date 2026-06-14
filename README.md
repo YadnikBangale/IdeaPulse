@@ -148,13 +148,22 @@ Innovation Distance: High
 
 ---
 
-## 👨‍💻 Team
+## 👨‍💻 Contributors
 
 ### Yadnik Bangale
-Computer Science Engineering Student | Developer
+**Lead Developer**
+- Designed and developed the IdeaPulse platform
+- Built the frontend and backend architecture
+- Integrated machine learning components
+- Implemented user interaction workflows
 
 ### Gouri Rajkarne
-Developer
+**Data Science Lead**
+- Developed the data science pipeline
+- Prepared and curated datasets
+- Implemented semantic similarity analysis
+- Worked on embeddings, novelty scoring, and model evaluation
+- Contributed to the machine learning framework powering IdeaPulse
 
 ---
 
