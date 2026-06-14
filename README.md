@@ -165,6 +165,7 @@ Innovation Distance: High
 - Worked on embeddings, novelty scoring, and model evaluation
 - Contributed to the machine learning framework powering IdeaPulse
 
+GitHub: https://github.com/GouriRajkarne
 ---
 
 ## 🤝 Contributing
