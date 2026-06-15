@@ -1,4 +1,4 @@
-# 🚀 IdeaPulse
+# IdeaPulse
 
 > AI-Powered Idea Novelty Analyzer
 
@@ -6,19 +6,19 @@ IdeaPulse is a machine learning-powered platform that helps innovators, students
 
 ---
 
-## 🌟 Features
+## Features
 
-- 🧠 AI-powered idea analysis
-- 📊 Novelty scoring system
-- 🔍 Semantic similarity search
-- ⚡ Fast idea comparison using vector embeddings
-- 📈 Innovation distance measurement
-- 💻 User-friendly web interface
-- 📂 Dataset-driven evaluation
+- AI-powered idea analysis
+- Novelty scoring system
+- Semantic similarity search
+- Fast idea comparison using vector embeddings
+- Innovation distance measurement
+- User-friendly web interface
+- Dataset-driven evaluation
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 ```
 IdeaPulse/
@@ -53,7 +53,7 @@ IdeaPulse/
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. User submits an idea title and description.
 2. The text is converted into embeddings using NLP models.
@@ -64,7 +64,7 @@ IdeaPulse/
 
 ---
 
-## 📥 Installation
+## Installation
 
 ### Clone the Repository
 
@@ -125,7 +125,7 @@ Innovation Distance: High
 
 ---
 
-## 🎯 Use Cases
+## Use Cases
 
 - Startup idea validation
 - Hackathon projects
@@ -136,7 +136,7 @@ Innovation Distance: High
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Real-time web idea search
 - Patent database integration
@@ -148,7 +148,7 @@ Innovation Distance: High
 
 ---
 
-## 👨‍💻 Contributors
+## Contributors
 
 ### Yadnik Bangale
 **Lead Developer**
@@ -168,7 +168,7 @@ Innovation Distance: High
 GitHub: https://github.com/GouriRajkarne
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -195,7 +195,7 @@ git push origin feature-name
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License.
 
