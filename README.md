@@ -31,7 +31,7 @@ IdeaPulse/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - HTML
@@ -102,7 +102,7 @@ npx live-server
 
 ---
 
-## 📊 Example Workflow
+## Example Workflow
 
 ### Input
 
@@ -201,8 +201,8 @@ This project is licensed under the MIT License.
 
 ---
 
-## ⭐ Support
+## Support
 
-If you found this project useful, please consider giving it a star ⭐ on GitHub.
+If you found this project useful, please consider giving it a star on GitHub.
 
 **IdeaPulse — Measuring the originality of ideas through AI.**
